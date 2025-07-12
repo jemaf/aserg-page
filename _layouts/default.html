@@ -19,30 +19,49 @@
     <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
 </head>
 <body>
-    <header class="site-header">
-        <div class="container">
-            <h1 class="site-title">
-                <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-            </h1>
-            <nav class="site-nav">
-                <a href="{{ '/' | relative_url }}">Home</a>
-                <a href="{{ '/about/' | relative_url }}">About</a>
-                <a href="{{ '/blog/' | relative_url }}">Blog</a>
-                <a href="{{ '/contact/' | relative_url }}">Contact</a>
-            </nav>
+    <div id="wrapper">
+        <div id="header">
+            <div id="branding">
+                <div id="site-title">
+                    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+                </div>
+                <div id="site-description">
+                    Department of Computer Science, Federal University of Minas Gerais, Belo Horizonte, Brazil
+                </div>
+            </div>
         </div>
-    </header>
 
-    <main class="site-main">
-        <div class="container">
-            {{ content }}
+        <div id="access" role="navigation">
+            <div class="menu-header">
+                <ul id="menu-navigation" class="menu">
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/members/' | relative_url }}">Members</a></li>
+                    <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
+                    <li><a href="{{ '/theses/' | relative_url }}">Theses</a></li>
+                    <li><a href="{{ '/software/' | relative_url }}">Software and Datasets</a></li>
+                    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+                </ul>
+            </div>
         </div>
-    </main>
 
-    <footer class="site-footer">
-        <div class="container">
-            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}. All rights reserved.</p>
+        <div id="main">
+            <div id="container">
+                <div id="content" role="main">
+                    {{ content }}
+                </div>
+            </div>
         </div>
-    </footer>
+
+        <div id="footer">
+            <div id="colophon">
+                <div id="site-info">
+                    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+                </div>
+                <div id="site-generator">
+                    Proudly powered by Jekyll.
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 </html> 
