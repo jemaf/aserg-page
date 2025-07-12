@@ -1,0 +1,55 @@
+---
+layout: default
+title: Home
+---
+
+<div class="hero">
+    <h1>Welcome to My Jekyll Site</h1>
+    <p>A beautiful, modern static website built with Jekyll and served with Docker</p>
+</div>
+
+<div class="features">
+    <div class="feature">
+        <h3>🚀 Fast & Lightweight</h3>
+        <p>Built with Jekyll for optimal performance and minimal resource usage. Perfect for static content that loads quickly.</p>
+    </div>
+    
+    <div class="feature">
+        <h3>🐳 Docker Ready</h3>
+        <p>Containerized with Docker for easy deployment and consistent environments across different platforms.</p>
+    </div>
+    
+    <div class="feature">
+        <h3>📱 Responsive Design</h3>
+        <p>Modern, responsive design that looks great on all devices - from mobile phones to desktop computers.</p>
+    </div>
+    
+    <div class="feature">
+        <h3>🔧 Easy to Customize</h3>
+        <p>Built with clean, semantic HTML and CSS that's easy to modify and extend to match your needs.</p>
+    </div>
+</div>
+
+<section class="recent-posts">
+    <h2>Recent Posts</h2>
+    <div class="posts-grid">
+        {% for post in site.posts limit:3 %}
+        <article class="post-preview">
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            <div class="post-meta">
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%B %d, %Y" }}
+                </time>
+            </div>
+            <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+            <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+        </article>
+        {% endfor %}
+    </div>
+    
+    {% if site.posts.size > 3 %}
+    <div class="view-all-posts">
+        <a href="{{ '/blog/' | relative_url }}" class="btn">View All Posts</a>
+    </div>
+    {% endif %}
+</section> 

@@ -1,0 +1,33 @@
+FROM ruby:3.2-alpine
+
+# Install build dependencies
+RUN apk add --no-cache \
+    build-base \
+    gcc \
+    g++ \
+    make \
+    libc-dev \
+    libffi-dev \
+    zlib-dev \
+    libxml2-dev \
+    libxslt-dev \
+    readline-dev \
+    yaml-dev \
+    zlib-dev
+
+# Set working directory
+WORKDIR /app
+
+# Copy Gemfile and install dependencies
+COPY Gemfile ./
+RUN bundle config set --local build.nokogiri --use-system-libraries
+RUN bundle install --jobs 4 --retry 3
+
+# Copy source code
+COPY . .
+
+# Expose port 4000 for Jekyll development server
+EXPOSE 4000
+
+# Default command for development
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4000", "--livereload"] 
