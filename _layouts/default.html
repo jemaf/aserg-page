@@ -18,50 +18,93 @@
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
 </head>
-<body>
-    <div id="wrapper">
+<body class="home page page-id-11 page-template-default">
+    <div id="wrapper" class="hfeed">
         <div id="header">
-            <div id="branding">
-                <div id="site-title">
-                    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-                </div>
-                <div id="site-description">
-                    Department of Computer Science, Federal University of Minas Gerais, Belo Horizonte, Brazil
-                </div>
-            </div>
-        </div>
+            <div id="masthead">
+                <div id="branding" role="banner">
+                    <h1 id="site-title">
+                        <span>
+                            <a href="{{ '/' | relative_url }}" title="{{ site.title }}" rel="home">{{ site.title }}</a>
+                        </span>
+                    </h1>
+                    <div id="site-description">Department of Computer Science, Federal University of Minas Gerais, Belo Horizonte, Brazil</div>
+                </div><!-- #branding -->
+            </div><!-- #masthead -->
+        </div><!-- #header -->
 
         <div id="access" role="navigation">
+            <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
             <div class="menu-header">
-                <ul id="menu-navigation" class="menu">
-                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-                    <li><a href="{{ '/members/' | relative_url }}">Members</a></li>
-                    <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
-                    <li><a href="{{ '/theses/' | relative_url }}">Theses</a></li>
-                    <li><a href="{{ '/software/' | relative_url }}">Software and Datasets</a></li>
-                    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+                <ul id="menu-main_menu" class="menu">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item">
+                        <a href="{{ '/' | relative_url }}">Home</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="{{ '/members/' | relative_url }}">Members</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="{{ '/theses/' | relative_url }}">Theses</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="{{ '/software/' | relative_url }}">Software and Datasets</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="{{ '/contact/' | relative_url }}">Contact</a>
+                    </li>
                 </ul>
             </div>
-        </div>
+        </div><!-- #access -->
 
         <div id="main">
             <div id="container">
                 <div id="content" role="main">
-                    {{ content }}
-                </div>
-            </div>
-        </div>
-
-        <div id="footer">
+                    <div id="post-11" class="post-11 page type-page status-publish hentry">
+                        <h2 class="entry-title">{{ page.title | default: 'Home' }}</h2>
+                        
+                        <div class="entry-content">
+                            {{ content }}
+                        </div><!-- .entry-content -->
+                    </div><!-- #post-## -->
+                    
+                    <div id="comments">
+                    </div><!-- #comments -->
+                </div><!-- #content -->
+            </div><!-- #container -->
+            
+            <div id="primary" class="widget-area" role="complementary">
+                <ul class="xoxo">
+                    <li class="widget-container widget_text">
+                        <div class="textwidget"></div>
+                    </li>
+                </ul>
+            </div><!-- #primary .widget-area -->
+            
+            <div id="secondary" class="widget-area" role="complementary">
+                <ul class="xoxo">
+                    <li class="widget-container widget_text">
+                        <div class="textwidget"></div>
+                    </li>
+                </ul>
+            </div><!-- #secondary .widget-area -->
+        </div><!-- #main -->
+        
+        <div id="footer" role="contentinfo">
             <div id="colophon">
                 <div id="site-info">
-                    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
-                </div>
+                    <a href="{{ '/' | relative_url }}" title="{{ site.title }}" rel="home">
+                        {{ site.title }}
+                    </a>
+                </div><!-- #site-info -->
+                
                 <div id="site-generator">
-                    Proudly powered by Jekyll.
-                </div>
-            </div>
-        </div>
-    </div>
+                    <a href="https://jekyllrb.com/" title="Static Site Generator">Proudly powered by Jekyll.</a>
+                </div><!-- #site-generator -->
+            </div><!-- #colophon -->
+        </div><!-- #footer -->
+    </div><!-- #wrapper -->
 </body>
 </html> 
