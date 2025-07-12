@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How Developers Implement Property-Based Tests - Applied Software Engineering Research Group</title>
+    <meta name="description" content="Department of Computer Science, Federal University of Minas Gerais, Belo Horizonte, Brazil">
+    
+    <!-- SEO -->
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>How Developers Implement Property-Based Tests | Applied Software Engineering Research Group</title>
+<meta name="generator" content="Jekyll v4.3.4" />
+<meta property="og:title" content="How Developers Implement Property-Based Tests" />
+<meta name="author" content="ASERG" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="@inproceedings{icsme2023-nier-pbt, author = {Arthur Corgozinho and Marco Tulio Valente and Henrique Rocha}, title = {How Developers Implement Property-Based Tests}, booktitle = {39th International Conference on Software Maintenance and Evolution (ICSME)}, year = {2023}, pages = {1–5} }" />
+<meta property="og:description" content="@inproceedings{icsme2023-nier-pbt, author = {Arthur Corgozinho and Marco Tulio Valente and Henrique Rocha}, title = {How Developers Implement Property-Based Tests}, booktitle = {39th International Conference on Software Maintenance and Evolution (ICSME)}, year = {2023}, pages = {1–5} }" />
+<link rel="canonical" href="http://0.0.0.0:4000/publications/2023-02-pbt/" />
+<meta property="og:url" content="http://0.0.0.0:4000/publications/2023-02-pbt/" />
+<meta property="og:site_name" content="Applied Software Engineering Research Group" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-07-13T00:30:45+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="How Developers Implement Property-Based Tests" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"ASERG"},"dateModified":"2025-07-13T00:30:45+00:00","datePublished":"2025-07-13T00:30:45+00:00","description":"@inproceedings{icsme2023-nier-pbt, author = {Arthur Corgozinho and Marco Tulio Valente and Henrique Rocha}, title = {How Developers Implement Property-Based Tests}, booktitle = {39th International Conference on Software Maintenance and Evolution (ICSME)}, year = {2023}, pages = {1–5} }","headline":"How Developers Implement Property-Based Tests","mainEntityOfPage":{"@type":"WebPage","@id":"http://0.0.0.0:4000/publications/2023-02-pbt/"},"url":"http://0.0.0.0:4000/publications/2023-02-pbt/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    
+    <!-- Feed -->
+    <link type="application/atom+xml" rel="alternate" href="http://0.0.0.0:4000/feed.xml" title="Applied Software Engineering Research Group" />
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+    
+    <!-- JavaScript -->
+    <script src="/assets/js/collapsible.js"></script>
+</head>
+<body class="home page page-id-11 page-template-default">
+    <div id="wrapper" class="hfeed">
+        <div id="header">
+            <div id="masthead">
+                <div id="branding" role="banner">
+                    <h1 id="site-title">
+                        <span>
+                            <a href="/" title="Applied Software Engineering Research Group" rel="home">Applied Software Engineering Research Group</a>
+                        </span>
+                    </h1>
+                    <div id="site-description">Department of Computer Science, Federal University of Minas Gerais, Belo Horizonte, Brazil</div>
+                </div><!-- #branding -->
+            </div><!-- #masthead -->
+        </div><!-- #header -->
+
+        <div id="access" role="navigation">
+            <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+            <div class="menu-header">
+                <ul id="menu-main_menu" class="menu">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item">
+                        <a href="/">Home</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="/members/">Members</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="/publications/">Publications</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="/theses/">Theses</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="/software/">Software and Datasets</a>
+                    </li>
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                        <a href="/contact/">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div><!-- #access -->
+
+        <div id="main">
+            <div id="container">
+                <div id="content" role="main">
+                    <div id="post-11" class="post-11 page type-page status-publish hentry">
+                        <h2 class="entry-title">How Developers Implement Property-Based Tests</h2>
+                        
+                        <div class="entry-content">
+                            <div class="publication">
+  <h1>How Developers Implement Property-Based Tests</h1>
+  
+  <div class="publication-meta">
+    <p><strong>Authors:</strong> Arthur Corgozinho, Marco Tulio Valente, Henrique Rocha</p>
+    <p><strong>Venue:</strong> 39th International Conference on Software Maintenance and Evolution (ICSME), New Ideas and Emerging Results (NIER) Track</p>
+    <p><strong>Year:</strong> 2023</p>
+    <p><strong>Pages:</strong> 1-5</p>
+    <p><strong>Type:</strong> Conference</p>
+    
+    
+  </div>
+
+  <div class="publication-bibtex">
+    <h2>BibTeX</h2>
+    <pre><code class="tex bibtex"><p>@inproceedings{icsme2023-nier-pbt,
+  author = {Arthur Corgozinho and Marco Tulio Valente and Henrique Rocha},
+  title = {How Developers Implement Property-Based Tests},
+  booktitle = {39th International Conference on Software Maintenance and Evolution (ICSME)},
+  year = {2023},
+  pages = {1–5}
+}</p>
+</code></pre>
+  </div>
+</div> 
+                        </div><!-- .entry-content -->
+                    </div><!-- #post-## -->
+                    
+                    <div id="comments">
+                    </div><!-- #comments -->
+                </div><!-- #content -->
+            </div><!-- #container -->
+            
+            <div id="primary" class="widget-area" role="complementary">
+                <ul class="xoxo">
+                    <li class="widget-container widget_text">
+                        <div class="textwidget"></div>
+                    </li>
+                </ul>
+            </div><!-- #primary .widget-area -->
+            
+            <div id="secondary" class="widget-area" role="complementary">
+                <ul class="xoxo">
+                    <li class="widget-container widget_text">
+                        <div class="textwidget"></div>
+                    </li>
+                </ul>
+            </div><!-- #secondary .widget-area -->
+        </div><!-- #main -->
+        
+        <div id="footer" role="contentinfo">
+            <div id="colophon">
+                <div id="site-info">
+                    <a href="/" title="Applied Software Engineering Research Group" rel="home">
+                        Applied Software Engineering Research Group
+                    </a>
+                </div><!-- #site-info -->
+                
+                <div id="site-generator">
+                    <a href="https://jekyllrb.com/" title="Static Site Generator">Proudly powered by Jekyll.</a>
+                </div><!-- #site-generator -->
+            </div><!-- #colophon -->
+        </div><!-- #footer -->
+    </div><!-- #wrapper -->
+</body>
+</html> 

@@ -15,6 +15,10 @@ collections:
   posts:
     output: true
     permalink: /:collection/:title/
+  publications:
+    output: true
+    permalink: /:collection/:title/
+    markdown: false
 
 # Defaults
 defaults:

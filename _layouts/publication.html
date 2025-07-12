@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="publication">
+  <h1>{{ page.title }}</h1>
+  
+  <div class="publication-meta">
+    <p><strong>Authors:</strong> {{ page.authors }}</p>
+    <p><strong>Venue:</strong> {{ page.venue }}</p>
+    <p><strong>Year:</strong> {{ page.year }}</p>
+    <p><strong>Pages:</strong> {{ page.pages }}</p>
+    <p><strong>Type:</strong> {{ page.type | capitalize }}</p>
+    
+    {% if page.pdf_url and page.pdf_url != "#" %}
+    <p><strong>PDF:</strong> <a href="{{ page.pdf_url }}" target="_blank">Download PDF</a></p>
+    {% endif %}
+  </div>
+
+  <div class="publication-bibtex">
+    <h2>BibTeX</h2>
+    <pre><code class="tex bibtex">{{ content }}</code></pre>
+  </div>
+</div> 
