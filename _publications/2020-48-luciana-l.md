@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Luciana L"
-authors: "Jailton Coelho, Marco Tulio Valente, Luciano Milen"
-venue: ""
+title: "Is this {GitHub} Project Maintained? Measuring the Level of Maintenance Activity of Open-Source Projects"
+authors: "Jailton Coelho and Marco Tulio Valente and Luciano Milen and Luciana L. Silva"
+venue: "Information and Software Technology"
 year: 2020
 pages: "1-35"
 type: "journal"

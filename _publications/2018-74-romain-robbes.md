@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Romain Robbes"
-authors: "Gleison Brito, Andre Hora, Marco Tulio Valente"
-venue: "Romain Robbes. On the Use of Replacement Messages in API Deprecation: An Empirical Study. Journal of Systems and Software"
+title: "On the Use of Replacement Messages in API Deprecation: An Empirical Study"
+authors: "Gleison Brito and Andre Hora and Marco Tulio Valente and Romain Robbes"
+venue: "Journal of Systems and Software"
 year: 2018
 pages: "306-321"
 type: "journal"

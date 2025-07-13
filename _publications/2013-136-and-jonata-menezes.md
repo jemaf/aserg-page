@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Jonata Menezes"
-authors: "Cristiano Maffort, Marco Tulio Valente, Mariza Bigonha, Andre Hora, Nicolas Anquetil"
-venue: "Jonata Menezes. Mining Architectural Patterns Using Association Rules. In 25th International Conference on Software Engineering and Knowledge Engineering (SEKE)"
+title: "25th International Conference on Software Engineering and Knowledge Engineering (SEKE)"
+authors: "Cristiano Maffort and Marco Tulio Valente and Mariza Bigonha and Andre Hora and Nicolas Anquetil and Jonata Menezes"
+venue: "25th International Conference on Software Engineering and Knowledge Engineering (SEKE)"
 year: 2013
 pages: "375-380"
 type: "journal"

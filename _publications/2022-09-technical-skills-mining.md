@@ -1,8 +1,8 @@
 ---
 layout: publication
 title: "Mining the Technical Skills of Open Source Developers"
-authors: "João Eduardo Montandon, Marco Tulio Valente"
-venue: "Thesis and Dissertations Contest (CTD) – Brazilian Computer Society (SBC)"
+authors: "João Eduardo Montandon and Marco Tulio Valente"
+venue: "Thesis and Dissertations Contest (CTD) - Brazilian Computer Society (SBC)"
 year: 2022
 pages: "1-10"
 type: "conference"

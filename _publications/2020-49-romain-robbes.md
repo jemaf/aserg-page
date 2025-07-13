@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Romain Robbes"
-authors: "Andre Hora"
-venue: ""
+title: "Characteristics of Method Extractions in Java: A Large Scale Empirical Study"
+authors: "Andre Hora and Romain Robbes"
+venue: "Empirical Software Engineering"
 year: 2020
 pages: "1798–1833"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: "Raiza Oliveira, Bruno Cafeo"
-venue: "Andre Hora. On the Evolution of Feature Dependencies: An Exploratory Study of Preprocessor-based Systems. In 13th International Workshop on Variability Modelling of Software-Intensive Systems (VAMOS)"
+title: "On the Evolution of Feature Dependencies: An Exploratory Study of Preprocessor-based Systems"
+authors: "Raiza Oliveira and Bruno Cafeo and Andre Hora"
+venue: "13th International Workshop on Variability Modelling of Software-Intensive Systems (VAMOS)"
 year: 2019
 pages: "1-9"
 type: "journal"

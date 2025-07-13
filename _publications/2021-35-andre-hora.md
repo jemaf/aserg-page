@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: ""
-venue: "Andre Hora. Googling for Software Development: What Developers Search For and What They Find. In 18th IEEE/ACM International Conference on Mining Software Repositories (MSR)"
+title: "Googling for Software Development: What Developers Search For and What They Find"
+authors: "Andre Hora"
+venue: "18th IEEE/ACM International Conference on Mining Software Repositories (MSR)"
 year: 2021
 pages: "317-328"
 type: "journal"

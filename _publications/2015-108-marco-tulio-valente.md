@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Hudson Borges"
-venue: ""
+title: "Mining usage patterns for the {Android} {API}"
+authors: "Hudson Borges and Marco Tulio Valente"
+venue: "PeerJ Computer Science"
 year: 2015
 pages: "1-13"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Eduardo Figueiredo"
-authors: "Marcus Vinicius Couto, Marco Tulio Valente"
-venue: "Eduardo Figueiredo. Extracting Software Product Lines: A Case Study Using Conditional Compilation. In 15th European Conference on Software Maintenance and Reengineering (CSMR)"
+title: "Extracting Software Product Lines: A Case Study Using Conditional Compilation"
+authors: "Marcus Vinicius Couto and Marco Tulio Valente and Eduardo Figueiredo"
+venue: "15th European Conference on Software Maintenance and Reengineering (CSMR)"
 year: 2011
 pages: "191-200"
 type: "journal"

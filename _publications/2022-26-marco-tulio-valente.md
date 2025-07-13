@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Aline Brito, Andre Hora"
-venue: "Marco Tulio Valente. Understanding Refactoring Tasks over Time: A Study Using Refactoring Graphs. In 25th Ibero-American Conference on Software Engineering (CIbSE)"
+title: "Understanding Refactoring Tasks over Time: A Study Using Refactoring Graphs"
+authors: "Aline Brito and Andre Hora and Marco Tulio Valente"
+venue: "25th Ibero-American Conference on Software Engineering (CIbSE)"
 year: 2022
 pages: "1-15"
 type: "journal"

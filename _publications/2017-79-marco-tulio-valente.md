@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Jailton Coelho"
-venue: "Marco Tulio Valente. Why Modern Open Source Projects Fail. In 25th International Symposium on the Foundations of Software Engineering (FSE)"
+title: "Why Modern Open Source Projects Fail"
+authors: "Jailton Coelho and Marco Tulio Valente"
+venue: "25th International Symposium on the Foundations of Software Engineering (FSE)"
 year: 2017
 pages: "186-196"
 type: "journal"

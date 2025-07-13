@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Rogel Garcia and Marco Tulio Valente"
-authors: ""
-venue: "Implementation. In 18th Enterprise Computing Conference (EDOC)"
+title: "Object--Business Process Mapping Frameworks: Abstractions, Architecture, and Implementation"
+authors: "Rogel Garcia and Marco Tulio Valente"
+venue: "18th Enterprise Computing Conference (EDOC)"
 year: 2014
 pages: "1-10"
 type: "journal"

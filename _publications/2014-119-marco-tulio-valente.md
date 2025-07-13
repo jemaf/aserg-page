@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Henrique Rocha, Guilherme Oliveira, Humberto Maques-Neto"
-venue: "Marco Tulio Valente. NextBug: A Tool for Recommending Similar Bugs in Open-Source Systems. V Brazilian Conference on Software: Theory and Practice (Tools Track)"
+title: "5th Brazilian Conference on Software: Theory and Practice (CBSoft), Tools Demonstration Track"
+authors: "Henrique Rocha and Guilherme Oliveira and Humberto Maques-Neto and Marco Tulio Valente"
+venue: "5th Brazilian Conference on Software: Theory and Practice (CBSoft), Tools Demonstration Track"
 year: 2014
 pages: "= {1--6}"
 type: "journal"

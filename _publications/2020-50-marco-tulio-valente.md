@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Danilo Silva, Joao Paulo da Silva, Gustavo Santos, Ricardo Terra"
-venue: ""
+title: "RefDiff 2.0: A Multi-language Refactoring Detection Tool"
+authors: "Danilo Silva and Joao Paulo da Silva and Gustavo Santos and Ricardo Terra and Marco Tulio Valente"
+venue: "IEEE Transactions on Software Engineering"
 year: 2020
 pages: "1-17"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marcelo Maia"
-authors: "Luciana Silva, Marco Tulio Valente"
-venue: ""
+title: "Co-change Clusters: Extraction and Application on Assessing Software Modularity"
+authors: "Luciana Silva and Marco Tulio Valente and Marcelo Maia"
+venue: "Transactions on Aspect-Oriented Software Development XII"
 year: 2015
 pages: "96-131"
 type: "journal"

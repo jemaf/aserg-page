@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Heitor Costa"
-authors: "Paloma Oliveira, Hudson Borges, Marco Tulio Valente"
-venue: "Heitor Costa. Metrics-based Detection of Similar Software. In 25th International Conference on Software Engineering and Knowledge Engineering (SEKE)"
+title: "25th International Conference on Software Engineering and Knowledge Engineering (SEKE)"
+authors: "Paloma Oliveira and Hudson Borges and Marco Tulio Valente and Heitor Costa"
+venue: "25th International Conference on Software Engineering and Knowledge Engineering (SEKE)"
 year: 2013
 pages: "447-450"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Anne Etien"
-authors: "Leonardo Humberto Silva, Marco Tulio Valente, Alexandre Bergel, Nicolas Anquetil"
-venue: "Anne Etien. Identifying Classes in Legacy JavaScript Code. Journal of Software: Evolution and Process"
+title: "Identifying Classes in Legacy {JavaScript} Code"
+authors: "Leonardo Humberto Silva and Marco Tulio Valente and Alexandre Bergel and Nicolas Anquetil and Anne Etien"
+venue: "Journal of Software: Evolution and Process"
 year: 2017
 pages: "1-20"
 type: "journal"

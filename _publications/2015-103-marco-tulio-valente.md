@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Gustavo Santos, Nicolas Anquetil, Anne Etien, Stephane Ducasse"
-venue: "Marco Tulio Valente. OrionPlanning: Improving Modularization and Checking Consistency on Software Architecture. In 3rd IEEE Working Conference on Software Visualization (VISSOFT)"
+title: "OrionPlanning: Improving Modularization and Checking Consistency on Software Architecture"
+authors: "Gustavo Santos and Nicolas Anquetil and Anne Etien and Stephane Ducasse and Marco Tulio Valente"
+venue: "3rd IEEE Working Conference on Software Visualization (VISSOFT)"
 year: 2015
 pages: "190-194"
 type: "journal"

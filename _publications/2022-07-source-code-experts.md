@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Identifying Source Code File Experts"
-authors: "Otávio Cury, Guilherme Avelino, Pedro Santos Neto, Ricardo Britto, Marco Tulio Valente"
+authors: "Otávio Cury and Guilherme Avelino and Pedro Santos Neto and Ricardo Britto and Marco Tulio Valente"
 venue: "16th International Symposium on Empirical Software Engineering and Measurement (ESEM)"
 year: 2022
 pages: "1-12"

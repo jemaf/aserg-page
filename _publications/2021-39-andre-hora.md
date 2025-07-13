@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: ""
-venue: ""
+title: "APISonar: Mining API usage examples"
+authors: "Andre Hora"
+venue: "Software: Practice and Experience"
 year: 2021
 pages: "319–352"
 type: "journal"

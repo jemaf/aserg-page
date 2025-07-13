@@ -1,7 +1,7 @@
 ---
 layout: publication
-title: "Eduardo Figueiredo"
-authors: "Romulo Nascimento, Aline Brito, Andre Hora"
+title: "JavaScript API Deprecation in the Wild: A First Assessment"
+authors: "Romulo Nascimento and Aline Brito and Andre Hora and Eduardo Figueiredo"
 venue: "Eduardo Figueiredo. JavaScript API Deprecation in the Wild: A First Assessment. In 27th International Conference on Software Analysis"
 year: 2020
 pages: "567-571"

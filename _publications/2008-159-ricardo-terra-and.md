@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Ricardo Terra and Marco Tulio Valente"
-authors: ""
-venue: "Ricardo Terra and Marco Tulio Valente. Towards a Dependency Constraint Language to Manage Software Architectures. In 2nd European Conference on Software Architecture (ECSA)"
+title: "Towards a Dependency Constraint Language to Manage Software Architectures"
+authors: "Ricardo Terra and Marco Tulio Valente"
+venue: "2nd European Conference on Software Architecture (ECSA)"
 year: 2008
 pages: "256-263"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Marco Tulio Valente"
-authors: "Marcelo Nassau, Samuel Oliveira"
-venue: "Marco Tulio Valente. Guidelines for Enabling the Extraction of Aspects from Existing Object-Oriented Code. Journal of Object Technology"
+title: "Guidelines for Enabling the Extraction of Aspects from Existing Object-Oriented Code"
+authors: "Marcelo Nassau and Samuel Oliveira and Marco Tulio Valente"
+venue: "Journal of Object Technology"
 year: 2009
 pages: "1-19"
 type: "journal"

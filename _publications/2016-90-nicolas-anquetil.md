@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Nicolas Anquetil"
-authors: "Andre Hora, Marco Tulio Valente, Romain Robbes"
-venue: "Nicolas Anquetil. When Should Internal Interfaces be Promoted to Public? In 24th International Symposium on the Foundations of Software Engineering (FSE)"
+title: "When Should Internal Interfaces be Promoted to Public?"
+authors: "Andre Hora and Marco Tulio Valente and Romain Robbes and Nicolas Anquetil"
+venue: "24th International Symposium on the Foundations of Software Engineering (FSE)"
 year: 2016
 pages: "280-291"
 type: "journal"

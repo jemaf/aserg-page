@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "How and Why We End Up with Complex Methods: A Multi-Language Study"
-authors: "Mateus Lopes, Andre Hora"
+authors: "Mateus Lopes and Andre Hora"
 venue: "Empirical Software Engineering"
 year: 2022
 pages: "1-42"

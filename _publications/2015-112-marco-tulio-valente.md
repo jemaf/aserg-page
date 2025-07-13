@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Henrique Rocha, Guilherme Oliveira, Humberto Maques-Neto"
-venue: "Marco Tulio Valente. NextBug: a Bugzilla extension for recommending similar bugs. Journal of Software Engineering Research and Development"
+title: "NextBug: a {Bugzilla} extension for recommending similar bugs"
+authors: "Henrique Rocha and Guilherme Oliveira and Humberto Maques-Neto and Marco Tulio Valente"
+venue: "Journal of Software Engineering Research and Development"
 year: 2015
 pages: "1-14"
 type: "journal"

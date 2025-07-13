@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Towards a Catalog of Composite Refactorings"
-authors: "Aline Brito, Andre Hora, Marco Tulio Valente"
+authors: "Aline Brito and Andre Hora and Marco Tulio Valente"
 venue: "Journal of Software: Evolution and Process"
 year: 2023
 pages: "1-22"

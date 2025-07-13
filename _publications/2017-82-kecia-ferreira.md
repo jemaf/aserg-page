@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Kecia Ferreira"
-authors: "Mivian Ferreira, Marco Tulio Valente"
-venue: "Kecia Ferreira. A Comparison of Three Algorithms for Computing Truck Factors. In 25th International Conference on Program Comprehension (ICPC)"
+title: "A Comparison of Three Algorithms for Computing Truck Factors"
+authors: "Mivian Ferreira and Marco Tulio Valente and Kecia Ferreira"
+venue: "25th International Conference on Program Comprehension (ICPC)"
 year: 2017
 pages: "207-217"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Danilo Silva, Nikolaos Tsantalis"
-venue: "Marco Tulio Valente. Why We Refactor? Confessions of GitHub Contributors. In 24th International Symposium on the Foundations of Software Engineering (FSE)"
+title: "Why We Refactor? Confessions of {GitHub} Contributors"
+authors: "Danilo Silva and Nikolaos Tsantalis and Marco Tulio Valente"
+venue: "24th International Symposium on the Foundations of Software Engineering (FSE)"
 year: 2016
 pages: "858-870"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marcelo Nassau and Marco Tulio Valente"
-authors: ""
-venue: ""
+title: "Object-Oriented Transformations for Extracting Aspects"
+authors: "Marcelo Nassau and Marco Tulio Valente"
+venue: "Information and Software Technology"
 year: 2009
 pages: "138-149"
 type: "journal"

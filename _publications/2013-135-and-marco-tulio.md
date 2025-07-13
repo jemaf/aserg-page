@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Marco Tulio Valente"
-authors: "Cesar Couto, Joao Eduardo Montandon, Christofer Silva"
-venue: "Marco Tulio Valente. Static correspondence and correlation between field defects and warnings reported by a bug finding tool. Software Quality Journal"
+title: "Static correspondence and correlation between field defects and warnings reported by a bug finding tool"
+authors: "Cesar Couto and Joao Eduardo Montandon and Christofer Silva and Marco Tulio Valente"
+venue: "Software Quality Journal"
 year: 2013
 pages: "241-257"
 type: "journal"

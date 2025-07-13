@@ -1,8 +1,8 @@
 ---
 layout: publication
 title: "Code Smells in Elixir: Early Results from a Grey Literature Review"
-authors: "Lucas Vegi, Marco Tulio Valente"
-venue: "30th International Conference on Program Comprehension (ICPC), Early Research Track"
+authors: "Lucas Vegi and Marco Tulio Valente"
+venue: "30th International Conference on Program Comprehension (ICPC)"
 year: 2022
 pages: "1-5"
 type: "conference"

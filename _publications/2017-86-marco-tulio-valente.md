@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Laerte Xavier, Andre Hora"
-venue: "Marco Tulio Valente. Why do We Break APIs? First Answers from Developers. In 24th International Conference on Software Analysis"
+title: "Why do We Break {APIs}? First Answers from Developers"
+authors: "Laerte Xavier and Andre Hora and Marco Tulio Valente"
+venue: "24th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2017
 pages: "392-396"
 type: "journal"

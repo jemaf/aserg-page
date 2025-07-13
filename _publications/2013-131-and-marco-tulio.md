@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Marco Tulio Valente"
-authors: "Vitor Sales, Ricardo Terra, Luis Fernando Miranda"
-venue: "Marco Tulio Valente. Recommending Move Method Refactorings Using Dependency Sets. In 20th Working Conference on Reverse Engineering (WCRE)"
+title: "Recommending Move Method Refactorings Using Dependency Sets"
+authors: "Vitor Sales and Ricardo Terra and Luis Fernando Miranda and Marco Tulio Valente"
+venue: "20th Working Conference on Reverse Engineering (WCRE)"
 year: 2013
 pages: "232-241"
 type: "journal"

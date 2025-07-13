@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Luciana L"
-authors: "Jailton Coelho, Marco Tulio Valente"
-venue: "Emad Shihab. Identifying Unmaintained Projects in GitHub. In 12th International Symposium on Empirical Software Engineering and Measurement (ESEM)"
+title: "Identifying Unmaintained Projects in {GitHub}"
+authors: "Jailton Coelho and Marco Tulio Valente and Luciana L. Silva and Emad Shihab"
+venue: "12th International Symposium on Empirical Software Engineering and Measurement (ESEM)"
 year: 2018
 pages: "1-10"
 type: "journal"

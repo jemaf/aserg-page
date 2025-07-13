@@ -1,7 +1,7 @@
 ---
 layout: publication
-title: "Refactoring React-based Web Apps"
-authors: "Fabio Ferreira, Hudson Borges, Marco Tulio Valente"
+title: "Refactoring {React}-based Web Apps"
+authors: "Fabio Ferreira and Hudson Borges and Marco Tulio Valente"
 venue: "Journal of Systems and Software"
 year: 2024
 pages: "1-36"

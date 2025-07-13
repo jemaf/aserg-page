@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Henrique Rocha and Marco Tulio Valente"
-authors: ""
-venue: "Henrique Rocha and Marco Tulio Valente. How Annotations are Used in Java: An Empirical Study. In 23rd International Conference on Software Engineering and Knowledge Engineering (SEKE)"
+title: "23rd International Conference on Software Engineering and Knowledge Engineering (SEKE)"
+authors: "Henrique Rocha and Marco Tulio Valente"
+venue: "23rd International Conference on Software Engineering and Knowledge Engineering (SEKE)"
 year: 2011
 pages: "426-431"
 type: "journal"

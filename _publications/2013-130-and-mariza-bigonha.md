@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Mariza Bigonha"
-authors: "Cristiano Maffort, Marco Tulio Valente, Nicolas Anquetil, Andre Hora"
-venue: "Mariza Bigonha. Heuristics for Discovering Architectural Violations. In 20th Working Conference on Reverse Engineering (WCRE)"
+title: "Heuristics for Discovering Architectural Violations"
+authors: "Cristiano Maffort and Marco Tulio Valente and Nicolas Anquetil and Andre Hora and Mariza Bigonha"
+venue: "20th Working Conference on Reverse Engineering (WCRE)"
 year: 2013
 pages: "222-231"
 type: "journal"

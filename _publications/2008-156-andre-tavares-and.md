@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Tavares and Marco Tulio Valente"
-authors: ""
-venue: ""
+title: "A Gentle Introduction to {OSGi}"
+authors: "Andre Tavares and Marco Tulio Valente"
+venue: "ACM SIGSOFT Software Engineering Notes"
 year: 2008
 pages: "1-5"
 type: "journal"

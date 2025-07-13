@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Aline Brito, Andre Hora"
-venue: "Marco Tulio Valente. Refactoring Graphs: Assessing Refactoring over Time. In 27th International Conference on Software Analysis"
+title: "Refactoring Graphs: Assessing Refactoring over Time"
+authors: "Aline Brito and Andre Hora and Marco Tulio Valente"
+venue: "27th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2020
 pages: "367-377"
 type: "journal"

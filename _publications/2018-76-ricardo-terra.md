@@ -1,7 +1,7 @@
 ---
 layout: publication
-title: "Ricardo Terra"
-authors: "Miguel Ramos, Marco Tulio Valente"
+title: "AngularJS"
+authors: "Miguel Ramos and Marco Tulio Valente and Ricardo Terra"
 venue: ""
 year: 2018
 pages: "72-79"

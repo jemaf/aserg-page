@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Marco Tulio Valente"
-authors: "Andre Hora, Nicolas Anquetil, Stephane Ducasse"
-venue: "Marco Tulio Valente. Mining System Specific Rules from Change Patterns. In 20th Working Conference on Reverse Engineering (WCRE)"
+title: "Mining System Specific Rules from Change Patterns"
+authors: "Andre Hora and Nicolas Anquetil and Stephane Ducasse and Marco Tulio Valente"
+venue: "20th Working Conference on Reverse Engineering (WCRE)"
 year: 2013
 pages: "331-340"
 type: "journal"

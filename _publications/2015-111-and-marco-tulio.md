@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Marco Tulio Valente"
-authors: "Gustavo Santos, Nicolas Anquetil, Anne Etien, Stephane Ducasse"
-venue: "Source Code Transformations. In 31st IEEE International Conference on Software Maintenance and Evolution (ICSME)"
+title: "System Specific, Source Code Transformations"
+authors: "Gustavo Santos and Nicolas Anquetil and Anne Etiene and StÃ©phane Ducasse and Marco Tulio Valente"
+venue: "31st IEEE International Conference on Software Maintenance and Evolution (ICSME)"
 year: 2015
 pages: "221-230"
 type: "journal"

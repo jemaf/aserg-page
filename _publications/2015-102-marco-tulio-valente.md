@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Andre Hora, Nicolas Anquetil, Anne Etien, Stephane Ducasse"
-venue: "Marco Tulio Valente. Automatic Detection of System-Specific Conventions Unknown to Developers. In Journal of Systems and Software"
+title: "Automatic Detection of System-Specific Conventions Unknown to Developers"
+authors: "Andre Hora and Nicolas Anquetil and Anne Etien and Stephane Ducasse and Marco Tulio Valente"
+venue: "Journal of Systems and Software"
 year: 2015
 pages: "192-204"
 type: "journal"

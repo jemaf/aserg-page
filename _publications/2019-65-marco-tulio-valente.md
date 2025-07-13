@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Hudson Borges"
-venue: ""
+title: "How do Developers Promote Open Source Projects?"
+authors: "Hudson Borges and Marco Tulio Valente"
+venue: "IEEE Computer"
 year: 2019
 pages: "27-33"
 type: "journal"

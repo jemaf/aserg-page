@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Kecia Ferreira"
-authors: "Mivian Ferreira, Thais Mombach, Marco Tulio Valente"
-venue: "Kecia Ferreira. Algorithms for Estimating Truck Factors: A Comparative Study. Software Quality Journal"
+title: "Algorithms for Estimating Truck Factors: A Comparative Study"
+authors: "Mivian Ferreira and Thais Mombach and Marco Tulio Valente and Kecia Ferreira"
+venue: "Software Quality Journal"
 year: 2019
 pages: "1-37"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
 title: "Exploring API Deprecation Evolution in JavaScript"
-authors: "Romulo Nascimento, Andre Hora, Eduardo Figueiredo"
-venue: "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Early Research Track"
+authors: "Romulo Nascimento and Andre Hora and Eduardo Figueiredo"
+venue: "In 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Early Research Track"
 year: 2022
 pages: "1-5"
 type: "conference"

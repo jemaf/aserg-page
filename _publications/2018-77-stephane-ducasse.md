@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Stephane Ducasse"
-authors: "Andre Hora, Romain Robbes, Marco Tulio Valente, Nicolas Anquetil, Anne Etien"
-venue: "Stephane Ducasse. How do Developers React to API Evolution? A Large-Scale Empirical Study. In Software Quality Journal"
+title: "How do Developers React to {API} Evolution? A Large-Scale Empirical Study"
+authors: "Andre Hora and Romain Robbes and Marco Tulio Valente and Nicolas Anquetil and Anne Etien and Stephane Ducasse"
+venue: "Software Quality Journal"
 year: 2018
 pages: "161-191"
 type: "journal"

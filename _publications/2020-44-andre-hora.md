@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: "Gustavo Pereira"
-venue: "Andre Hora. Assessing Mock Classes: An Empirical Study. In IEEE International Conference on Software Maintenance and Evolution (ICSME)"
+title: "Assessing Mock Classes: An Empirical Study"
+authors: "Gustavo Pereira, Andre Hora"
+venue: "IEEE International Conference on Software Maintenance and Evolution (ICSME)"
 year: 2020
 pages: "1-11"
 type: "journal"

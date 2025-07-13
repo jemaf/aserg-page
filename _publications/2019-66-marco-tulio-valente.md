@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Guilherme Avelino, Leonardo Passos, Fabio Petrillo"
-venue: ""
+title: "Who Can Maintain this Code? Assessing the Effectiveness of Repository-Mining Techniques for Identifying Software Maintainers"
+authors: "Guilherme Avelino and Leonardo Passos and Fabio Petrillo and Marco Tulio Valente"
+venue: "IEEE Software"
 year: 2019
 pages: "1-15"
 type: "journal"

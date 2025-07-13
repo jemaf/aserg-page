@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Ricardo Terra and Marco Tulio Valente"
-authors: ""
-venue: ""
+title: "A Dependency Constraint Language to Manage Object-Oriented Software Architectures"
+authors: "Ricardo Terra and Marco Tulio Valente"
+venue: "Software: Practice and Experience"
 year: 2009
 pages: "1073-1094"
 type: "journal"

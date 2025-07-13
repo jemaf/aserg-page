@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Fabio Ferreira"
-venue: ""
+title: "Detecting Code Smells in {R}eact-based Web Apps"
+authors: "Fabio Ferreira and Marco Tulio Valente"
+venue: "Information and Software Technology"
 year: 2023
 pages: "1-16"
 type: "journal"

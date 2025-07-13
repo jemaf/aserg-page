@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Laerte Xavier, Aline Brito, Andre Hora"
-venue: "Marco Tulio Valente. Historical and Impact Analysis of API Breaking Changes: A Large Scale Study. In 24th International Conference on Software Analysis"
+title: "Historical and Impact Analysis of {API} Breaking Changes: A Large Scale Study"
+authors: "Laerte Xavier and Aline Brito and Andre Hora and Marco Tulio Valente"
+venue: "24th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2017
 pages: "138-147"
 type: "journal"

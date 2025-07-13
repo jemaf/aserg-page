@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "How Are Framework Code Samples Maintained and Used by Developers? The Case of Android and Spring Boot"
-authors: "Gabriel Menezes, Bruno Cafeo, Andre Hora"
+authors: "Gabriel Menezes and Bruno Cafeo and Andre Hora"
 venue: "Journal of Systems and Software"
 year: 2022
 pages: "1-16"

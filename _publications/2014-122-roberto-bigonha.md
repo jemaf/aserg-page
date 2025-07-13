@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Roberto Bigonha"
-authors: "Cesar Couto, Marco Tulio Valente, Pedro Pires, Andre Hora, Nicolas Anquetil"
-venue: "Roberto Bigonha. BugMaps-Granger: A Tool for Visualizing and Predicting Bugs using Granger Causality Tests. Journal of Software Engineering Research and Development"
+title: "BugMaps-Granger: A Tool for Visualizing and Predicting Bugs using Granger Causality Tests"
+authors: "Cesar Couto and Marco Tulio Valente and Pedro Pires and Andre Hora and Nicolas Anquetil and Roberto Bigonha"
+venue: "Journal of Software Engineering Research and Development"
 year: 2014
 pages: "1-12"
 type: "journal"

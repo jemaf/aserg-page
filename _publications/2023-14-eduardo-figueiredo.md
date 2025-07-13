@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Eduardo Figueiredo"
-authors: "Thiago Nicolini, Andre Hora"
-venue: ""
+title: "On the Usage of New JavaScript Features through Transpilers: The Babel Case"
+authors: "Thiago Nicolini and Andre Hora and Eduardo Figueiredo"
+venue: "IEEE Software"
 year: 2023
 pages: "1-12"
 type: "journal"

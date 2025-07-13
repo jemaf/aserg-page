@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: ""
-venue: "Andre Hora. What Code Is Deliberately Excluded from Test Coverage and Why?. In 18th IEEE/ACM International Conference on Mining Software Repositories (MSR)"
+title: "What Code Is Deliberately Excluded from Test Coverage and Why?"
+authors: "Andre Hora"
+venue: "18th IEEE/ACM International Conference on Mining Software Repositories (MSR)"
 year: 2021
 pages: "392-402"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Fabio Ferreira, Luciana Lourdes Silva"
-venue: "Marco Tulio Valente. Turnover in Open-Source Projects: The Case of Core Developers. In 34th Brazilian Symposium on Software Engineering (SBES)"
+title: "Turnover in Open-Source Projects: The Case of Core Developers"
+authors: "Fabio Ferreira and Luciana Lourdes Silva and Marco Tulio Valente"
+venue: "34th Brazilian Symposium on Software Engineering (SBES)"
 year: 2020
 pages: "1-10"
 type: "journal"

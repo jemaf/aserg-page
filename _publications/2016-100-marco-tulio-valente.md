@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Juan Pablo Sandoval Alcocer, Alexandre Bergel"
-venue: "Marco Tulio Valente. Learning from Source Code History to Identify Performance Failures. In 7th ACM/SPEC International Conference on Performance Engineering (ICPE)"
+title: "Learning from Source Code History to Identify Performance Failures"
+authors: "Juan Pablo Sandoval Alcocer and Alexandre Bergel and Marco Tulio Valente"
+venue: "7th ACM/SPEC International Conference on Performance Engineering (ICPE)"
 year: 2016
 pages: "37-48"
 type: "journal"

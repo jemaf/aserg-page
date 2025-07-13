@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Alexander Serebrenik"
-authors: "Guilherme Avelino, Eleni Constantinou, Marco Tulio Valente"
-venue: "Alexander Serebrenik. On the abandonment and survival of open source projects: An empirical investigation. In 13th International Symposium on Empirical Software Engineering and Measurement (ESEM)"
+title: "On the Abandonment and Survival of Open Source Projects: An Empirical Investigation"
+authors: "Guilherme Avelino and Eleni Constantinou and Marco Tulio Valente and Alexander Serebrenik"
+venue: "13th International Symposium on Empirical Software Engineering and Measurement(ESEM)"
 year: 2019
 pages: "1-11"
 type: "journal"

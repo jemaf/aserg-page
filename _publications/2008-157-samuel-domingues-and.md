@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Samuel Domingues and Marco Tulio Valente"
-authors: "Leonardo Humberto Silva"
-venue: "Samuel Domingues and Marco Tulio Valente. Non-invasive and Non-scattered Annotations for More Robust Pointcuts. In 24th IEEE International Conference on Software Maintenance (ICSM)"
+title: "Non-invasive and Non-scattered Annotations for More Robust Pointcuts"
+authors: "Leonardo Humberto Guimaraes Silva and Samuel Domingues and Marco Tulio Valente"
+venue: "24th IEEE International Conference on Software Maintenance (ICSM)"
 year: 2008
 pages: "67-76"
 type: "journal"

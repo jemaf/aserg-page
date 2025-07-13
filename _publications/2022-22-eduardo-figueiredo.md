@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Eduardo Figueiredo"
-authors: "Romulo Nascimento, Andre Hora"
-venue: "Eduardo Figueiredo. Exploring API Deprecation Evolution in JavaScript. In 29th IEEE International Conference on Software Analysis"
+title: "Exploring API Deprecation Evolution in JavaScript"
+authors: "Romulo Nascimento and Andre Hora and Eduardo Figueiredo"
+venue: "In 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Early Research Track"
 year: 2022
 pages: "1-5"
 type: "journal"

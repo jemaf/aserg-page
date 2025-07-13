@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Tavares and Marco Tulio Valente"
-authors: ""
-venue: "Andre Tavares and Marco Tulio Valente. A Remote Display System for Java-based Mobile Application. In 23rd ACM Symposium on Applied Computing (SAC)"
+title: "A Remote Display System for {Java}-based Mobile Application"
+authors: "Andre Tavares and Marco Tulio Valente"
+venue: "23rd ACM Symposium on Applied Computing (SAC)"
 year: 2008
 pages: "1918-1922"
 type: "journal"

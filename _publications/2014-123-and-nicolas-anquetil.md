@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Nicolas Anquetil"
-authors: "Cesar Couto, Pedro Pires, Marco Tulio Valente, Roberto Bigonha"
-venue: "Nicolas Anquetil. Predicting Software Defects with Causality Tests. Journal of Systems and Software"
+title: "Predicting Software Defects with Causality Tests"
+authors: "Cesar Couto and Pedro Pires and Marco Tulio Valente and Roberto Bigonha and Nicolas Anquetil"
+venue: "Journal of Systems and Software"
 year: 2014
 pages: "24-41"
 type: "journal"

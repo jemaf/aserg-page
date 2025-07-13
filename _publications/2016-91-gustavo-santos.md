@@ -1,7 +1,7 @@
 ---
 layout: publication
-title: "Gustavo Santos"
-authors: "Miguel Ramos, Marco Tulio Valente, Ricardo Terra"
+title: "AngularJS"
+authors: "Miguel Ramos and Marco Tulio Valente and Ricardo Terra and Gustavo Santos"
 venue: "Gustavo Santos. AngularJS in the Wild: A Survey with 460 Developers. In 7th Workshop on Evaluation and Usability of Programming Languages and Tools (PLATEAU)"
 year: 2016
 pages: "= {9--16}"

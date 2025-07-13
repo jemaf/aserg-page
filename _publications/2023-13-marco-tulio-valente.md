@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Lucas Vegi"
-venue: ""
+title: "Understanding Code Smells in {Elixir} Functional Language"
+authors: "Lucas Vegi and Marco Tulio Valente"
+venue: "Empirical Software Engineering"
 year: 2023
 pages: "1-36"
 type: "journal"

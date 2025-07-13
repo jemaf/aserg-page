@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Aline Brito, Andre Hora"
-venue: ""
+title: "Characterizing Refactoring Graphs in {Java} and {JavaScript} Projects"
+authors: "Aline Brito and Andre Hora and Marco Tulio Valente"
+venue: "Empirical Software Engineering"
 year: 2021
 pages: "1-43"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Marco Tulio Valente"
-authors: "Hugo Brito, Humberto Marques-Neto, Ricardo Terra, Henrique Rocha"
-venue: "Marco Tulio Valente. On-the-fly extraction of hierarchical object graphs. Journal of the Brazilian Computer Society"
+title: "On-the-fly extraction of hierarchical object graphs"
+authors: "Hugo de Brito and Humberto Marques-Neto and Ricardo Terra and Henrique Rocha and Marco Tulio Valente"
+venue: "Journal of the Brazilian Computer Society"
 year: 2013
 pages: "15-27"
 type: "journal"

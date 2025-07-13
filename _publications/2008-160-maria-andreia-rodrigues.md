@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Maria Andreia Rodrigues and Marco Tulio Valente"
-authors: "Nabor Mendonca, Clayton Silva, Ian Maia"
-venue: "Maria Andreia Rodrigues and Marco Tulio Valente. A Loosely Coupled Aspect Language for SOA Applications. International Journal of Software Engineering and Knowledge Engineering (IJSEKE)"
+title: "A Loosely Coupled Aspect Language for {SOA} Applications"
+authors: "Nabor Mendonca and Clayton Silva and Ian Maia and Maria Andreia Rodrigues and Marco Tulio Valente"
+venue: "International Journal of Software Engineering and Knowledge Engineering (IJSEKE)"
 year: 2008
 pages: "243-262"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Julio Martins"
-authors: "Andre Hora, Cesar Couto, Nicolas Anquetil, Stephane Ducasse, Muhammad Bhatti, Marco Tulio Valente"
-venue: "Julio Martins. BugMaps: A Tool for the Visual Exploration and Analysis of Bugs. In 16th European Conference on Software Maintenance and Reengineering (CSMR)"
+title: "16th European Conference on Software Maintenance and Reengineering (CSMR), Tool Demonstration Track"
+authors: "Andre Hora and Cesar Couto and Nicolas Anquetil and Stephane Ducasse and Muhammad Bhatti and Marco Tulio Valente and Julio Martins"
+venue: "16th European Conference on Software Maintenance and Reengineering (CSMR), Tool Demonstration Track"
 year: 2012
 pages: "523-526"
 type: "journal"

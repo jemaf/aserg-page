@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: "Cristiano Maffort, Marco Tulio Valente, Ricardo Terra, Mariza Bigonha, Nicolas Anquetil"
-venue: "Andre Hora. Mining Architectural Violations from Version History. In Empirical Software Engineering Journal"
+title: "Mining Architectural Violations from Version History"
+authors: "Cristiano Maffort and Marco Tulio Valente and Ricardo Terra and Mariza Bigonha and Nicolas Anquetil and Andre Hora"
+venue: "Empirical Software Engineering Journal"
 year: 2016
 pages: "854-895"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Gail Murphy"
-authors: "Henrique Rocha, Marco Tulio Valente, Humberto Marques-Neto"
-venue: "Gail Murphy. An Empirical Study on Recommendations of Similar Bugs. In 23rd International Conference on Software Analysis"
+title: "An Empirical Study on Recommendations of Similar Bugs"
+authors: "Henrique Rocha and Marco Tulio Valente and Humberto Marques-Neto and Gail Murphy"
+venue: "23rd International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2016
 pages: "46-56"
 type: "journal"

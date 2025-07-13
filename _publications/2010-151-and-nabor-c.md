@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Nabor C"
-authors: "Leonardo Passos, Ricardo Terra, Renato Diniz, Marco Tulio Valente"
-venue: ""
+title: "Static Architecture Conformance Checking -- An Illustrative Overview"
+authors: "Leonardo Passos and Ricardo Terra and Renato Diniz and Marco Tulio Valente and Nabor C. Mendonca"
+venue: "IEEE Software"
 year: 2010
 pages: "82-89"
 type: "journal"

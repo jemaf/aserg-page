@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Guilherme Avelino, Leonardo Passos, Andre Hora"
-venue: "Marco Tulio Valente. Assessing Code Authorship: The Case of the Linux Kernel. In 13th International Conference on Open Source Systems (OSS)"
+title: "Assessing Code Authorship: The Case of the {Linux} Kernel"
+authors: "Guilherme Avelino and Leonardo Passos and Andre Hora and Marco Tulio Valente"
+venue: "13th International Conference on Open Source Systems (OSS)"
 year: 2017
 pages: "151-163"
 type: "journal"

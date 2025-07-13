@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Lucas Vegi"
-venue: ""
+title: "Understanding refactorings in Elixir functional language"
+authors: "Lucas Vegi and Marco Tulio Valente"
+venue: "Empirical Software Engineering"
 year: 2025
 pages: "1–58"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Alexander Serebrenik"
-authors: "Tamara Mendes, Marco Tulio Valente, Andre Hora"
-venue: "Alexander Serebrenik. Identifying Utility Functions using Random Forests. In 23rd International Conference on Software Analysis"
+title: "Identifying Utility Functions using Random Forests"
+authors: "Tamara Mendes and Marco Tulio Valente and Andre Hora and Alexander Serebrenik"
+venue: "23rd International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2016
 pages: "614-618"
 type: "journal"

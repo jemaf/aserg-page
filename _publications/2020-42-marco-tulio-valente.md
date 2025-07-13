@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Rodrigo Brito"
-venue: "Marco Tulio Valente. RefDiff4Go: Detecting Refactorings in Go. In 14th Brazilian Symposium on Software Components"
+title: "RefDiff4Go: Detecting Refactorings in Go"
+authors: "Rodrigo Brito, Marco Tulio Valente"
+venue: "14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)"
 year: 2020
 pages: "1-10"
 type: "journal"

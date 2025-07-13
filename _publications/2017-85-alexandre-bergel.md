@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Alexandre Bergel"
-authors: "Leonardo Humberto Silva, Marco Tulio Valente"
-venue: "Alexandre Bergel. Statically Identifying Class Dependencies In Legacy JavaScript Systems: First Results. In 24th International Conference on Software Analysis"
+title: "Statically Identifying Class Dependencies In Legacy {JavaScript} Systems: First Results"
+authors: "Leonardo Humberto Silva and Marco Tulio Valente and Alexandre Bergel"
+venue: "24th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2017
 pages: "427-431"
 type: "journal"

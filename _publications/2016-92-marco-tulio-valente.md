@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Hudson Borges, Andre Hora"
-venue: "Marco Tulio Valente. Predicting the Popularity of GitHub Repositories. In 12th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE)"
+title: "Predicting the Popularity of {GitHub} Repositories"
+authors: "Hudson Borges and Andre Hora and Marco Tulio Valente"
+venue: "12th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE)"
 year: 2016
 pages: "= {1--10}"
 type: "journal"

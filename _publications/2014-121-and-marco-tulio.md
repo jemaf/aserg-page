@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Marco Tulio Valente"
-authors: "Danilo Silva, Ricardo Terra"
-venue: "Marco Tulio Valente. Recommending Automated Extract Method Refactorings. In 22nd IEEE International Conference on Program Comprehension (ICPC)"
+title: "Recommending Automated Extract Method Refactorings"
+authors: "Danilo Silva and Ricardo Terra and Marco Tulio Valente"
+venue: "22nd IEEE International Conference on Program Comprehension (ICPC)"
 year: 2014
 pages: "146-156"
 type: "journal"

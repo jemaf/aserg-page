@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Gleison Brito, Thais Mombach"
-venue: "Marco Tulio Valente. Migrating to GraphQL: A Practical Assessment. In 26th International Conference on Software Analysis"
+title: "Migrating to {GraphQL}: A Practical Assessment"
+authors: "Gleison Brito and Thais Mombach and Marco Tulio Valente"
+venue: "26th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2019
 pages: "140-150"
 type: "journal"

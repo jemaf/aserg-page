@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "On the Documentation of Self-Admitted Technical Debt in Issues"
-authors: "Laerte Xavier, Joao Eduardo Montandon, Fabio Ferreira, Rodrigo Brito, Marco Tulio Valente"
+authors: "Laerte Xavier and Joao Eduardo Montandon and Fabio Ferreira and Rodrigo Brito and Marco Tulio Valente"
 venue: "Empirical Software Engineering"
 year: 2022
 pages: "1-38"

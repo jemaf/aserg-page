@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Laerte Xavier, Fabio Ferreira, Rodrigo Brito"
-venue: "Marco Tulio Valente. Beyond the Code: Mining Self-Admitted Technical Debt in Issue Tracker Systems. In 17th International Conference on Mining Software Repositories (MSR)"
+title: "Beyond the Code: Mining Self-Admitted Technical Debt in Issue Tracker Systems"
+authors: "Laerte Xavier and Fabio Ferreira and Rodrigo Brito and Marco Tulio Valente"
+venue: "17th International Conference on Mining Software Repositories (MSR)"
 year: 2020
 pages: "1-10"
 type: "journal"

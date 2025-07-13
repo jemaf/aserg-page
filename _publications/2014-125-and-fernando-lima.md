@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Fernando Lima"
-authors: "Paloma Oliveira, Marco Tulio Valente"
-venue: "Fernando Lima. Extracting Relative Thresholds for Source Code Metrics. In IEEE Conference on Software Maintenance"
+title: "Extracting Relative Thresholds for Source Code Metrics"
+authors: "Paloma Oliveira and Marco Tulio Valente and Fernando Lima"
+venue: "IEEE Conference on Software Maintenance, Reengineering and Reverse Engineering (CSMR-WCRE)"
 year: 2014
 pages: "254-263"
 type: "journal"

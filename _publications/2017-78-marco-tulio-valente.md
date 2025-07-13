@@ -1,7 +1,7 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Henrique Rocha, Rafael Durelli, Ricardo Terra, Sandalo Bessa"
+title: "DCL"
+authors: "Henrique Rocha and Rafael Durelli and Ricardo Terra and Sandalo Bessa and Marco Tulio Valente"
 venue: "Marco Tulio Valente. DCL 2.0: Modular and Reusable Specification of Architectural Constraints. Journal of the Brazilian Computer Society"
 year: 2017
 pages: "1-25"

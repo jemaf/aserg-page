@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "How and Why Developers Migrate Python Tests"
-authors: "Lívia Almeida, Andre Hora"
+authors: "Lívia Almeida and Andre Hora"
 venue: "29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2022
 pages: "1-12"

@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "On the (Un-)Adoption of JavaScript Front-end Frameworks"
-authors: "Fabio Ferreira, Hudson Borges, Marco Tulio Valente"
+authors: "Fabio Ferreira and Hudson Borges and Marco Tulio Valente"
 venue: "Software: Practice and Experience"
 year: 2022
 pages: "947-966"

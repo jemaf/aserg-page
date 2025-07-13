@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: "Victor Veloso"
-venue: "Andre Hora. Characterizing High-Quality Test Methods: A First Empirical Study. In 19th IEEE/ACM International Conference on Mining Software Repositories (MSR)"
+title: "Characterizing High-Quality Test Methods: A First Empirical Study"
+authors: "Victor Veloso and Andre Hora"
+venue: "19th IEEE/ACM International Conference on Mining Software Repositories (MSR)"
 year: 2022
 pages: "1-5"
 type: "journal"

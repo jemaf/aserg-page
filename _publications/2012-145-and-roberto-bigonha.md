@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Roberto Bigonha"
-authors: "Ricardo Terra, Marco Tulio Valente, Krzysztof Czarnecki"
-venue: "Roberto Bigonha. Recommending Refactorings to Reverse Software Architecture Erosion. In 16th European Conference on Software Maintenance and Reengineering (CSMR)"
+title: "Recommending Refactorings to Reverse Software Architecture Erosion"
+authors: "Ricardo Terra and Marco Tulio Valente and Krzysztof Czarnecki and Roberto S. Bigonha"
+venue: "16th European Conference on Software Maintenance and Reengineering (CSMR)"
 year: 2012
 pages: "335-340"
 type: "journal"

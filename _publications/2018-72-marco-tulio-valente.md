@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Aline Brito, Laerte Xavier, Andre Hora"
-venue: "Marco Tulio Valente. Why and How Java Developers Break APIs. In 25th International Conference on Software Analysis"
+title: "Why and How {Java} Developers Break {APIs}"
+authors: "Aline Brito and Laerte Xavier and Andre Hora and Marco Tulio Valente"
+venue: "25th International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2018
 pages: "255-265"
 type: "journal"

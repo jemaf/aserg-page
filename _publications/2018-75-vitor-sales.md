@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Vitor Sales"
-authors: "Ricardo Terra, Marco Tulio Valente, Sergio Miranda"
-venue: "Vitor Sales. JMove: A Novel Heuristic and Tool to Detect Move Method Refactoring Opportunities. Journal of Systems and Software"
+title: "JMove: A Novel Heuristic and Tool to Detect Move Method Refactoring Opportunities"
+authors: "Ricardo Terra and Marco Tulio Valente and Sergio Miranda and and Vitor Sales"
+venue: "Journal of Systems and Software"
 year: 2018
 pages: "19-36"
 type: "journal"

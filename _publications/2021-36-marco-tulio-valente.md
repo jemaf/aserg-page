@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Rodrigo Brito"
-venue: "Marco Tulio Valente. RAID: Tool Support for Refactoring-Aware Code Reviews. In 29th International Conference on Program Comprehension (ICPC)"
+title: "RAID: Tool Support for Refactoring-Aware Code Reviews"
+authors: "Rodrigo Brito and Marco Tulio Valente"
+venue: "29th International Conference on Program Comprehension (ICPC)"
 year: 2021
 pages: "1-11"
 type: "journal"

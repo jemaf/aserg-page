@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Romain Robbes"
-authors: "Gleison Brito, Andre Hora, Marco Tulio Valente"
-venue: "Romain Robbes. Do Developers Deprecate APIs with Replacement Messages? A Large-scale Analysis on Java Systems. In 23rd International Conference on Software Analysis"
+title: "Do Developers Deprecate {API}s with Replacement Messages? A Large-scale Analysis on {Java} Systems"
+authors: "Gleison Brito and Andre Hora and Marco Tulio Valente and Romain Robbes"
+venue: "23rd International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2016
 pages: "360-369"
 type: "journal"

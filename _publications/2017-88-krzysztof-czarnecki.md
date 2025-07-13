@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Krzysztof Czarnecki"
-authors: "Rodrigo Queiroz, Leonardo Passos, Marco Tulio Valente, Claus Hunsen, Sven Apel"
-venue: "Krzysztof Czarnecki. The Shape of Feature Code: An Analysis of Twenty C-Preprocessor-Based Systems. Journal on Software and Systems Modeling"
+title: "The Shape of Feature Code: An Analysis of Twenty {C}-Preprocessor-Based Systems"
+authors: "Rodrigo Queiroz and Leonardo Passos and Marco Tulio Valente and Claus Hunsen and Sven Apel and Krzysztof Czarnecki"
+venue: "Journal on Software and Systems Modeling"
 year: 2017
 pages: "77-96"
 type: "journal"

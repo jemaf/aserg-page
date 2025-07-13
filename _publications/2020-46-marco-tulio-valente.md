@@ -1,7 +1,7 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Gleison Brito"
+title: "REST"
+authors: "Gleison Brito and Marco Tulio Valente"
 venue: "Marco Tulio Valente. REST vs GraphQL: A Controlled Experiment. In IEEE International Conference on Software Architecture (ICSA)"
 year: 2020
 pages: "1-11"

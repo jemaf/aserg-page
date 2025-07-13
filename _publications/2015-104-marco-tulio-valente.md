@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Gustavo Santos, Nicolas Anquetil, Anne Etien, Stephane Ducasse"
-venue: "Source Code Transformations. In 15th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)"
+title: "Recording and Replaying System Specific, Source Code Transformations"
+authors: "Gustavo Santos and Nicolas Anquetil and Anne Etien and Stephane Ducasse and Marco Tulio Valente"
+venue: "15th IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)"
 year: 2015
 pages: "221-230"
 type: "journal"

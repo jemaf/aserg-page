@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Hudson Borges, Rodrigo Brito"
-venue: "Marco Tulio Valente. Beyond Textual Issues: Understanding the Usage and Impact of GitHub Reactions. In 33rd Brazilian Symposium on Software Engineering (SBES)"
+title: "Beyond Textual Issues: Understanding the Usage and Impact of {GitHub} Reactions"
+authors: "Hudson Borges and Rodrigo Brito and Marco Tulio Valente"
+venue: "33rd Brazilian Symposium on Software Engineering (SBES)"
 year: 2019
 pages: "1-10"
 type: "journal"

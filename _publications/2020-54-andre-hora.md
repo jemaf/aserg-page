@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: "Caroline Lima"
-venue: "Libraries. In Software Quality Journal"
+title: "What Are the Characteristics of Popular APIs? A Large Scale Study on Java, Android, and 165 Libraries"
+authors: "Caroline Lima and Andre Hora"
+venue: "Software Quality Journal"
 year: 2020
 pages: "425–458"
 type: "journal"

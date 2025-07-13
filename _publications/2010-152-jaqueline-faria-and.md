@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Jaqueline Faria and Sergio Soares"
-authors: "Marco Tulio Valente, Cesar Couto"
-venue: "Jaqueline Faria and Sergio Soares. On the Benefits of Quantification in AspectJ Systems. Journal of the Brazilian Computer Society"
+title: "On the Benefits of Quantification in {AspectJ} Systems"
+authors: "Marco Tulio Valente and Cesar Couto and Jaqueline Faria and Sergio Soares"
+venue: "Journal of the Brazilian Computer Society"
 year: 2010
 pages: "133-146"
 type: "journal"

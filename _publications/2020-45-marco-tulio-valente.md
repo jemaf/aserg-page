@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Juan Pablo Sandoval Alcocer, Alexandre Bergel"
-venue: ""
+title: "Prioritizing versions for performance regression testing: The {Pharo} case"
+authors: "Juan Pablo Sandoval Alcocer and Alexandre Bergel and Marco Tulio Valente"
+venue: "Science of Computer Programming"
 year: 2020
 pages: "1-25"
 type: "journal"

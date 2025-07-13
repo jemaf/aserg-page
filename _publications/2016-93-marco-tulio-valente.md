@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Henrique Rocha, Guilherme de Oliveira, Humberto Marques-Neto"
-venue: "Marco Tulio Valente. Characterizing Bug Workflows in Mozilla Firefox. In 30th Brazilian Symposium on Software Engineering (SBES)"
+title: "Characterizing Bug Workflows in {Mozilla Firefox}"
+authors: "Henrique Rocha and Guilherme de Oliveira and Humberto Marques-Neto and Marco Tulio Valente"
+venue: "30th Brazilian Symposium on Software Engineering (SBES)"
 year: 2016
 pages: "= {43--52}"
 type: "journal"

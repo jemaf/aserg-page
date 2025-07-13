@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Gabriel P"
-authors: ""
-venue: "Mirella M. Moro. How do developers collaborate? Investigating GitHub heterogeneous networks. Software Quality Journal"
+title: "How do developers collaborate? Investigating GitHub heterogeneous networks"
+authors: "Gabriel P. Oliveira and Ana Flávia C. Moura and Natércia A. Batista and Michele A. Brandão and Andre Hora and Mirella M. Moro"
+venue: "Software Quality Journal"
 year: 2022
 pages: "1-31"
 type: "journal"

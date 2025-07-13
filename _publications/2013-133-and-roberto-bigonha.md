@@ -1,7 +1,7 @@
 ---
 layout: publication
-title: "and Roberto Bigonha"
-authors: "Ricardo Terra, Luis Fernando Miranda, Marco Tulio Valente"
+title: "Q"
+authors: "Ricardo Terra and Luis Fernando Miranda and Marco Tulio Valente and Roberto S. Bigonha"
 venue: ""
 year: 2013
 pages: "1-4"

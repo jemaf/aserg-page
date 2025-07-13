@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Alexandre Bergel"
-authors: "Leonardo Humberto Silva, Marco Tulio Valente"
-venue: "The Bad and The Ugly. In 16th International Conference on Software Reuse (ICSR)"
+title: "Refactoring Legacy {JavaScript} Code to Use Classes: The Good, The Bad and The Ugly"
+authors: "Leonardo Humberto Silva and Marco Tulio Valente and Alexandre Bergel"
+venue: "16th International Conference on Software Reuse (ICSR)"
 year: 2017
 pages: "155-171"
 type: "journal"

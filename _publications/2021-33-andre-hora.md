@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: ""
-venue: "Andre Hora. Characterizing Top Ranked Code Examples in Google. Journal of Systems and Software"
+title: "Characterizing Top Ranked Code Examples in Google"
+authors: "Andre Hora"
+venue: "Journal of Systems and Software"
 year: 2021
 pages: "1-15"
 type: "journal"

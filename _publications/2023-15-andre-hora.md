@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: ""
-venue: ""
+title: "Excluding Code from Test Coverage: Practices, Motivations, and Impact"
+authors: "Andre Hora"
+venue: "Empirical Software Engineering"
 year: 2023
 pages: "1-36"
 type: "journal"

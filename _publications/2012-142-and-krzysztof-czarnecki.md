@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Krzysztof Czarnecki"
-authors: "Ricardo Terra, Marco Tulio Valente, Roberto Bigonha"
-venue: "Krzysztof Czarnecki. DCLfix: A Recommendation System for Repairing Architectural Violations. In 3rd Brazilian Conference on Software: Theory and Practice (CBSoft)"
+title: "3rd Brazilian Conference on Software: Theory and Practice (CBSoft), Tools Demonstration Track"
+authors: "Ricardo Terra and Marco Tulio Valente and Roberto Bigonha and Krzysztof Czarnecki"
+venue: "3rd Brazilian Conference on Software: Theory and Practice (CBSoft), Tools Demonstration Track"
 year: 2012
 pages: "63-68"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Andre Hora"
-venue: "Marco Tulio Valente. apiwave: Keeping Track of API Popularity and Migration. In 31st IEEE International Conference on Software Maintenance and Evolution (ICSME)"
+title: "apiwave: Keeping Track of API Popularity and Migration"
+authors: "Andre Hora and Marco Tulio Valente"
+venue: "31st IEEE International Conference on Software Maintenance and Evolution (ICSME)"
 year: 2015
 pages: "321-323"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Alexandre Bergel"
-authors: "Leonardo Silva, Miguel Ramos, Marco Tulio Valente, Nicolas Anquetil"
-venue: "Alexandre Bergel. Does Javascript Software Embrace Classes? In 22nd International Conference on Software Analysis"
+title: "Does {Javascript} Software Embrace Classes?"
+authors: "Leonardo Silva and Miguel Ramos and Marco Tulio Valente and Nicolas Anquetil and Alexandre Bergel"
+venue: "22nd International Conference on Software Analysis, Evolution and Reengineering (SANER)"
 year: 2015
 pages: "73-82"
 type: "journal"

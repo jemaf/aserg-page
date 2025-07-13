@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Luciana L"
-authors: "Jailton Coelho, Marco Tulio Valente"
-venue: "Andre Hora. Why We Engage in FLOSS: Answers from Core Developers. In 11th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)"
+title: "Why We Engage in {FLOSS}: Answers from Core Developers"
+authors: "Jailton Coelho and Marco Tulio Valente and Luciana L. Silva and Andre Hora"
+venue: "11th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE)"
 year: 2018
 pages: "14-21"
 type: "journal"

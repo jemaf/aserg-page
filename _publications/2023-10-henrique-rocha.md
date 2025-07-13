@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Henrique Rocha"
-authors: "Arthur Corgozinho, Marco Tulio Valente"
-venue: "Henrique Rocha. How Developers Implement Property-Based Tests. In 39th International Conference on Software Maintenance and Evolution (ICSME)"
+title: "How Developers Implement Property-Based Tests"
+authors: "Arthur Corgozinho and Marco Tulio Valente and Henrique Rocha"
+venue: "39th International Conference on Software Maintenance and Evolution (ICSME)"
 year: 2023
 pages: "1-5"
 type: "journal"

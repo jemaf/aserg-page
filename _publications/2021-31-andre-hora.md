@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: "Romulo Nascimento, Eduardo Figueiredo"
-venue: ""
+title: "JavaScript API Deprecation Landscape: A Survey and Mining Study"
+authors: "Romulo Nascimento and Eduardo Figueiredo and Andre Hora"
+venue: "IEEE Software"
 year: 2021
 pages: "1-15"
 type: "journal"

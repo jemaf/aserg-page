@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Luciana Lourdes Silva"
-authors: "João Eduardo Montandon, Marco Tulio Valente"
-venue: ""
+title: "Mining the Technical Roles of {GitHub} Users"
+authors: "João Eduardo Montandon and Marco Tulio Valente and Luciana Lourdes Silva"
+venue: "Information and Software Technology"
 year: 2021
 pages: "1-19"
 type: "journal"

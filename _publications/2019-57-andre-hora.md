@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: "Gabriel Menezes, Bruno Cafeo"
-venue: "Andre Hora. Framework Code Samples: How Are They Maintained and Used by Developers? In 13th International Symposium on Empirical Software Engineering and Measurement (ESEM)"
+title: "Framework Code Samples: How Are They Maintained and Used by Developers?"
+authors: "Gabriel Menezes and Bruno Cafeo and Andre Hora"
+venue: "13th International Symposium on Empirical Software Engineering and Measurement(ESEM)"
 year: 2019
 pages: "1-11"
 type: "journal"

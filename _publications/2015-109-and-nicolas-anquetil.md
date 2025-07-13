@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Nicolas Anquetil"
-authors: "Luciana Silva, Marco Tulio Valente, Marcelo Maia"
-venue: "Nicolas Anquetil. Developers Perception of Co-Change Patterns: An Empirical Study. In 31st IEEE International Conference on Software Maintenance and Evolution (ICSME)"
+title: "Developers' Perception of Co-Change Patterns: An Empirical Study"
+authors: "Luciana Silva and Marco Tulio Valente and Marcelo Maia and Nicolas Anquetil"
+venue: "31st IEEE International Conference on Software Maintenance and Evolution (ICSME)"
 year: 2015
 pages: "21-30"
 type: "journal"

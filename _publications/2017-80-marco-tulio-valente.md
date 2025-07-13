@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Danilo Silva"
-venue: "Marco Tulio Valente. RefDiff: Detecting Refactorings in Version Histories. In 14th International Conference on Mining Software Repositories (MSR)"
+title: "RefDiff: Detecting Refactorings in Version Histories"
+authors: "Danilo Silva and Marco Tulio Valente"
+venue: "14th International Conference on Mining Software Repositories (MSR)"
 year: 2017
 pages: "1-11"
 type: "journal"

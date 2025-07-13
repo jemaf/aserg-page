@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Fabio Ferreira, Luciana Lourdes Silva"
-venue: "Marco Tulio Valente. Software Engineering Meets Deep Learning: A Mapping Study. In 36th ACM/SIGAPP Symposium on Applied Computing (SAC)"
+title: "Software Engineering Meets Deep Learning: A Mapping Study"
+authors: "Fabio Ferreira and Luciana Lourdes Silva and Marco Tulio Valente"
+venue: "36th ACM/SIGAPP Symposium on Applied Computing (SAC), Software Engineering Track"
 year: 2021
 pages: "1-8"
 type: "journal"

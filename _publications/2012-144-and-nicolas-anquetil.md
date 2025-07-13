@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Nicolas Anquetil"
-authors: "Cesar Couto, Christofer Silva, Marco Tulio Valente, Roberto Bigonha"
-venue: "In 16th European Conference on Software Maintenance and Reengineering (CSMR)"
+title: "16th European Conference on Software Maintenance and Reengineering (CSMR)"
+authors: "Cesar Couto and Christofer Silva and Marco Tulio Valente and Roberto Bigonha and Nicolas Anquetil"
+venue: "16th European Conference on Software Maintenance and Reengineering (CSMR)"
 year: 2012
 pages: "223-232"
 type: "journal"

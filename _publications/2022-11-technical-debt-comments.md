@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Comments or Issues: Where to Document Technical Debt?"
-authors: "Laerte Xavier, João Eduardo Montandon, Marco Tulio Valente"
+authors: "Laerte Xavier and João Eduardo Montandon and Marco Tulio Valente"
 venue: "IEEE Software"
 year: 2022
 pages: "1-14"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Marco Tulio Valente"
-authors: "Gladston Aparecido, Humberto Marques-Neto"
-venue: "Marco Tulio Valente. A Quantitative Approach for Evaluating Software Maintenance Services. In 28th Symposium on Applied Computing (SAC)"
+title: "28th Symposium on Applied Computing (SAC), Software Engineering Track"
+authors: "Gladston Junio Aparecido and Humberto Marques-Neto and Marco Tulio Valente"
+venue: "28th Symposium on Applied Computing (SAC), Software Engineering Track"
 year: 2013
 pages: "1068-1073"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Aline Brito, Laerte Xavier, Andre Hora"
-venue: "Marco Tulio Valente. APIDiff: Detecting API Breaking Changes. In 25th International Conference on Software Analysis"
+title: "APIDiff: Detecting {API} Breaking Changes"
+authors: "Aline Brito and Laerte Xavier and Andre Hora and Marco Tulio Valente"
+venue: "25th International Conference on Software Analysis, Evolution and Reengineering (SANER), Tool Track"
 year: 2018
 pages: "507-511"
 type: "journal"

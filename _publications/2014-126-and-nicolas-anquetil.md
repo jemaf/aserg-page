@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Nicolas Anquetil"
-authors: "Gustavo Santos, Marco Tulio Valente"
-venue: "Nicolas Anquetil. Remodularization Analysis Using Semantic Clustering. In IEEE Conference on Software Maintenance"
+title: "Remodularization Analysis Using Semantic Clustering"
+authors: "Gustavo Santos and Marco Tulio Valente and Nicolas Anquetil"
+venue: "IEEE Conference on Software Maintenance, Reengineering and Reverse Engineering (CSMR-WCRE)"
 year: 2014
 pages: "224-233"
 type: "journal"

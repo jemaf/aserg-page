@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Laerte Xavier, Rodrigo dos Santos, Sandalo Bessa"
-venue: ""
+title: "Agile Technical Debt Management using the {LTD} Framework"
+authors: "Laerte Xavier and Rodrigo dos Santos and Sandalo Bessa and Marco Tulio Valente"
+venue: "ACM SIGSOFT Software Engineering Notes"
 year: 2024
 pages: "13-23"
 type: "journal"

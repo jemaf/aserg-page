@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Guilherme Avelino, Leonardo Passos, Andre Hora"
-venue: ""
+title: "Measuring and analyzing code authorship in 1+118 open source projects"
+authors: "Guilherme Avelino and Leonardo Passos and Andre Hora and Marco Tulio Valente"
+venue: "Science of Computer Programming"
 year: 2019
 pages: "14-32"
 type: "journal"

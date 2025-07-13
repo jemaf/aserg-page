@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Hudson Silva"
-venue: "Marco Tulio Valente. What’s in a GitHub Star? Understanding Repository Starring Practices in a Social Coding Platform. Journal of Systems and Software"
+title: "What's in a {GitHub} Star? Understanding Repository Starring Practices in a Social Coding Platform"
+authors: "Hudson Silva and Marco Tulio Valente"
+venue: "Journal of Systems and Software"
 year: 2018
 pages: "112-129"
 type: "journal"

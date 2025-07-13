@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Ricardo Terra"
-authors: "Sergio Miranda, Elder Rodrigues, Marco Tulio Valente"
-venue: "Ricardo Terra. Architecture Conformance Checking in Dynamically Typed Languages. Journal of Object Technology"
+title: "Architecture Conformance Checking in Dynamically Typed Languages"
+authors: "Sergio Miranda and Elder Rodrigues and Marco Tulio Valente and Ricardo Terra"
+venue: "Journal of Object Technology"
 year: 2016
 pages: "1-35"
 type: "journal"

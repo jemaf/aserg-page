@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Andre Hora"
-authors: "Aline Brito, Marco Tulio Valente, Laerte Xavier"
-venue: ""
+title: "You Broke My Code: Understanding the Motivations for Breaking Changes in {APIs}"
+authors: "Aline Brito and Marco Tulio Valente and Laerte Xavier and Andre Hora"
+venue: "Empirical Software Engineering"
 year: 2020
 pages: "1458–1492"
 type: "journal"

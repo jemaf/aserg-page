@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "and Roberto Bigonha"
-authors: "Ricardo Terra, Marco Tulio Valente, Krzysztof Czarnecki"
-venue: ""
+title: "A Recommendation System for Repairing Violations Detected by Static Architecture Conformance Checking"
+authors: "Ricardo Terra and Marco Tulio Valente and Krzysztof Czarnecki and Roberto S. Bigonha"
+venue: "Software: Practice and Experience"
 year: 2015
 pages: "315-342"
 type: "journal"

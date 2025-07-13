@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Lucas Vegi"
-venue: "Marco Tulio Valente. Towards a Catalog of Refactorings for Elixir. In 39th International Conference on Software Maintenance and Evolution (ICSME)"
+title: "Towards a Catalog of Refactorings for {Elixir}"
+authors: "Lucas Vegi and Marco Tulio Valente"
+venue: "39th International Conference on Software Maintenance and Evolution (ICSME)"
 year: 2023
 pages: "1-5"
 type: "journal"

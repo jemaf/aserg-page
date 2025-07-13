@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Marco Tulio Valente"
-authors: "Victor Gazzinelli Cruz, Henrique Rocha"
-venue: "Marco Tulio Valente. Snapshot Testing in Practice: Benefits and Drawbacks. Journal of Systems and Software"
+title: "Snapshot Testing in Practice: Benefits and Drawbacks"
+authors: "Victor Gazzinelli Cruz and Henrique Rocha and Marco Tulio Valente"
+venue: "Journal of Systems and Software"
 year: 2023
 pages: "1-7"
 type: "journal"

@@ -1,8 +1,8 @@
 ---
 layout: publication
-title: "Anne Etien"
-authors: "Leonardo Humberto Silva, Daniel Felix, Marco Tulio Valente, Alexandre Bergel, Nicolas Anquetil"
-venue: "Anne Etien. JSClassFinder: A Tool to Detect Class-like Structures in JavaScript. 6th Brazilian Conference on Software: Theory and Practice (Tools Track)"
+title: "6th Brazilian Conference on Software: Theory and Practice (CBSoft), Tools Demonstration Track"
+authors: "Leonardo Humberto Silva and Daniel Felix and Marco Tulio Valente and Alexandre Bergel and Nicolas Anquetil and Anne Etien"
+venue: "6th Brazilian Conference on Software: Theory and Practice (CBSoft), Tools Demonstration Track"
 year: 2015
 pages: "= {1--6}"
 type: "journal"
