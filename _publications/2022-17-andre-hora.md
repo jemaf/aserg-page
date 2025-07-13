@@ -1,0 +1,20 @@
+---
+layout: publication
+title: "Andre Hora"
+authors: "Mateus Lopes"
+venue: ""
+year: 2022
+pages: "1-42"
+type: "journal"
+bibtex_key: "andre-hora"
+pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2022-emse-how-why-complex-methods.pdf"
+---
+
+@article{emse2022complexity, 
+  author = {Mateus Lopes and Andre Hora},
+  title = {How and Why We End Up with Complex Methods: A Multi-Language Study},
+  journal = {Empirical Software Engineering},
+  volume = {27}, 
+  pages = {1--42},  
+  year = {2022}
+}

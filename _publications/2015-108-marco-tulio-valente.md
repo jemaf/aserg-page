@@ -1,0 +1,21 @@
+---
+layout: publication
+title: "Marco Tulio Valente"
+authors: "Hudson Borges"
+venue: ""
+year: 2015
+pages: "1-13"
+type: "journal"
+bibtex_key: "marco-tulio-valente"
+pdf_url: "https://peerj.com/articles/cs-12.pdf"
+---
+
+@article{peerj2015, 
+  author = {Hudson Borges and Marco Tulio Valente}, 
+  title = {Mining usage patterns for the {Android} {API}}, 
+  journal = {PeerJ Computer Science}, 
+  volume = {1}, 
+  number = {1}, 
+  year = {2015}, 
+  pages = {1--13}, 
+}

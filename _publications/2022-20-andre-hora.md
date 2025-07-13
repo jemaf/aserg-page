@@ -1,0 +1,19 @@
+---
+layout: publication
+title: "Andre Hora"
+authors: "Victor Veloso"
+venue: "Andre Hora. Characterizing High-Quality Test Methods: A First Empirical Study. In 19th IEEE/ACM International Conference on Mining Software Repositories (MSR)"
+year: 2022
+pages: "1-5"
+type: "journal"
+bibtex_key: "andre-hora"
+pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2022-msr-test-quality.pdf"
+---
+
+@inproceedings{msr2022tests, 
+  author = {Victor Veloso and Andre Hora},
+  title = {Characterizing High-Quality Test Methods: A First Empirical Study},
+  booktitle = {19th IEEE/ACM International Conference on Mining Software Repositories (MSR)}, 
+  year = {2022}, 
+  pages = {1--5}
+}
