@@ -1439,8 +1439,7 @@ code {
     font-weight: bold;
   }
   
-  span.papercite_checked_files 
-  {
+  span.papercite_checked_files {
       padding: 5px;
       margin: 5px;
       border: 1px solid black;
@@ -1449,5 +1448,10 @@ code {
       background: #eee;
       color: red;
       border-radius: 3px;
-  }
+}
+
+/* Publications list styling */
+#content ol li {
+  margin-bottom: 1em;
+}
   
