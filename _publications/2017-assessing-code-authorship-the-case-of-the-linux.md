@@ -1,0 +1,20 @@
+---
+layout: publication
+title: "Assessing Code Authorship: The Case of the {Linux"
+authors: "Guilherme Avelino and Leonardo Passos and Andre Hora and Marco Tulio Valente"
+venue: "13th International Conference on Open Source Systems (OSS)"
+year: 2017
+pages: "151--163"
+pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2017-oss.pdf"
+---
+
+
+{% raw %}
+@inproceedings{oss2017, 
+  author = {Guilherme Avelino and Leonardo Passos and Andre Hora and Marco Tulio Valente}, 
+  title = {Assessing Code Authorship: The Case of the {Linux} Kernel}, 
+  booktitle = {13th International Conference on Open Source Systems (OSS)}, 
+  year = {2017}, 
+  pages = {151--163}, 
+}
+{% endraw %}

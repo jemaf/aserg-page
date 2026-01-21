@@ -1,0 +1,20 @@
+---
+layout: publication
+title: "Understanding the Factors that Impact the Popularity of {GitHub"
+authors: "Hudson Borges and Andre Hora and Marco Tulio Valente"
+venue: "32nd IEEE International Conference on Software Maintenance and Evolution (ICSME)"
+year: 2016
+pages: "334--344"
+pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2016-icsme"
+---
+
+
+{% raw %}
+@inproceedings{icsme2016, 
+  author = {Hudson Borges and Andre Hora and Marco Tulio Valente}, 
+  title = {Understanding the Factors that Impact the Popularity of {GitHub} Repositories}, 
+  booktitle = {32nd IEEE International Conference on Software Maintenance and Evolution (ICSME)}, 
+  year = {2016}, 
+  pages = {334--344}, 
+}
+{% endraw %}

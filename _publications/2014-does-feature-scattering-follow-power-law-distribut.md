@@ -1,0 +1,20 @@
+---
+layout: publication
+title: "Does Feature Scattering Follow Power-Law Distributions? An Investigation of Five Pre-Processor-Based Systems"
+authors: "Rodrigo Queiroz and Leonardo Passos and Marco Tulio Valente and Sven Apel and Krzysztof Czarnecki"
+venue: "6th International Workshop on Feature-Oriented Software Development (FOSD)"
+year: 2014
+pages: "23--29"
+pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_fosd.pdf"
+---
+
+
+{% raw %}
+@inproceedings{fosd2014, 
+  author = {Rodrigo Queiroz and Leonardo Passos and Marco Tulio Valente and Sven Apel and Krzysztof Czarnecki}, 
+  title = {Does Feature Scattering Follow Power-Law Distributions? An Investigation of Five Pre-Processor-Based Systems}, 
+  booktitle = {6th International Workshop on Feature-Oriented Software Development (FOSD)}, 
+  year = {2014}, 
+  pages = {23--29}, 
+}
+{% endraw %}
