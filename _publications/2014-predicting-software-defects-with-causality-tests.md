@@ -6,6 +6,8 @@ venue: "Journal of Systems and Software"
 year: 2014
 pages: "24--41"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_jss_cesar.pdf"
+doi_url: "http://dx.doi.org/10.1016/j.jss.2014.01.033"
+slide_url: ""
 ---
 
 {% raw %}

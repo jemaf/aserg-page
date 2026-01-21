@@ -6,6 +6,8 @@ venue: "22nd International Systems and Software Product Line Conference (SPLC), 
 year: 2018
 pages: "257-263"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2018-splc.pdf"
+doi_url: "https://doi.org/10.1145/3233027.3236402"
+slide_url: ""
 ---
 
 {% raw %}

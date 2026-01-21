@@ -6,6 +6,8 @@ venue: "Journal of Systems and Software"
 year: 2015
 pages: "192--204"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015-jss-andre.pdf"
+doi_url: "http://dx.doi.org/10.1016/j.jss.2015.08.007"
+slide_url: ""
 ---
 
 {% raw %}

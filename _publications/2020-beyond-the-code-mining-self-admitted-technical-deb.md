@@ -6,6 +6,8 @@ venue: "17th International Conference on Mining Software Repositories (MSR)"
 year: 2020
 pages: "1--10"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2020-msr.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

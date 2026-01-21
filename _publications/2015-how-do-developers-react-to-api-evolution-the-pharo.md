@@ -6,6 +6,8 @@ venue: "31st IEEE International Conference on Software Maintenance and Evolution
 year: 2015
 pages: "251--260"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015-icsme-ecosystem.pdf"
+doi_url: "http://dx.doi.org/10.1109/ICSM.2015.7332471"
+slide_url: "https://speakerdeck.com/aserg_ufmg/how-do-developers-react-to-api-evolution-the-pharo-ecosystem-case-icsme-2015"
 ---
 
 {% raw %}

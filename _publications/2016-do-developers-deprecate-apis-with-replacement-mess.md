@@ -6,6 +6,8 @@ venue: "23rd International Conference on Software Analysis, Evolution and Reengi
 year: 2016
 pages: "360--369"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2016-saner-api.pdf"
+doi_url: "http://dx.doi.org/10.1109/SANER.2016.99"
+slide_url: "https://speakerdeck.com/aserg_ufmg/do-developers-deprecate-apis-with-replacement-messages-a-large-scale-analysis-on-java-systems-saner-2016"
 ---
 
 {% raw %}

@@ -6,6 +6,8 @@ venue: "Empirical Software Engineering"
 year: 2020
 pages: "1458–1492"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2019-emse.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

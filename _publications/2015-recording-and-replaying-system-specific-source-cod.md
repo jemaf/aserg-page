@@ -6,6 +6,8 @@ venue: "15th IEEE International Working Conference on Source Code Analysis and M
 year: 2015
 pages: "221--230"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015-scam.pdf"
+doi_url: "http://dx.doi.org/10.1109/SCAM.2015.7335418"
+slide_url: ""
 ---
 
 {% raw %}

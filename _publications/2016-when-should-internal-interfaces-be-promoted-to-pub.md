@@ -6,6 +6,8 @@ venue: "24th International Symposium on the Foundations of Software Engineering 
 year: 2016
 pages: "280--291"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2016-fse-andre.pdf"
+doi_url: "http://dx.doi.org/10.1145/2950290.2950306"
+slide_url: "https://speakerdeck.com/aserg_ufmg/when-should-internal-interfaces-be-promoted-to-public-fse-2016"
 ---
 
 {% raw %}

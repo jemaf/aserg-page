@@ -6,6 +6,8 @@ venue: "Journal of Object Technology"
 year: 2016
 pages: "1--35"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2016-jot.pdf"
+doi_url: "http://dx.doi.org/10.5381/jot.2016.15.3.a1"
+slide_url: ""
 ---
 
 {% raw %}

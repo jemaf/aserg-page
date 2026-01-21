@@ -6,6 +6,8 @@ venue: "Journal of Systems and Software"
 year: 2021
 pages: "1--30"
 pdf_url: "javascript:void(0)"
+doi_url: "https://doi.org/10.1016/j.jss.2021.111146"
+slide_url: ""
 ---
 
 {% raw %}

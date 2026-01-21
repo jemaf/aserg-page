@@ -6,6 +6,8 @@ venue: "20th Working Conference on Reverse Engineering (WCRE)"
 year: 2013
 pages: "222--231"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_wcre_archlint.pdf"
+doi_url: "http://dx.doi.org/10.1109/WCRE.2013.6671297"
+slide_url: "https://speakerdeck.com/aserg_ufmg/heuristics-for-discovering-architectural-violations-wcre-2013"
 ---
 
 {% raw %}

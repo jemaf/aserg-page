@@ -6,6 +6,8 @@ venue: "29th IEEE International Conference on Software Analysis, Evolution and R
 year: 2022
 pages: "1--11"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2022-saner-test-migration.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

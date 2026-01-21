@@ -6,6 +6,8 @@ venue: "30th International Conference on Program Comprehension (ICPC)"
 year: 2022
 pages: "1--5"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2022-icpc-era.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

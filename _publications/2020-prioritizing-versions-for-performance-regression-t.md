@@ -6,6 +6,8 @@ venue: "Science of Computer Programming"
 year: 2020
 pages: "1--25"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2020-scp.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

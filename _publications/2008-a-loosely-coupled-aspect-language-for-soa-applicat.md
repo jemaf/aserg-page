@@ -6,6 +6,8 @@ venue: "International Journal of Software Engineering and Knowledge Engineering 
 year: 2008
 pages: "243--262"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2008_ijseke.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

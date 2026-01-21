@@ -6,6 +6,8 @@ venue: "25th Ibero-American Conference on Software Engineering (CIbSE)"
 year: 2022
 pages: "1--15"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2022-cibse.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

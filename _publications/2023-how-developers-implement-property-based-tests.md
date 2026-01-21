@@ -6,6 +6,8 @@ venue: "39th International Conference on Software Maintenance and Evolution (ICS
 year: 2023
 pages: "1--5"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2023-icsme-nier-pbt.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

@@ -6,6 +6,8 @@ venue: "IEEE International Conference on Software Maintenance and Evolution (ICS
 year: 2020
 pages: "1--11"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2020-icsme-mock-classes.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

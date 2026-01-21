@@ -6,6 +6,8 @@ venue: "24th International Conference on Software Analysis, Evolution and Reengi
 year: 2017
 pages: "392--396"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2017-saner-era-laerte.pdf"
+doi_url: "https://doi.org/10.1109/SANER.2017.7884640"
+slide_url: "https://speakerdeck.com/aserg_ufmg/why-do-we-break-apis-first-answers-from-developers-saner-era-2017"
 ---
 
 {% raw %}

@@ -6,6 +6,8 @@ venue: "Journal of Systems and Software"
 year: 2018
 pages: "19--36"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2018-jss-jmove.pdf"
+doi_url: "https://doi.org/10.1016/j.jss.2017.11.073"
+slide_url: ""
 ---
 
 {% raw %}

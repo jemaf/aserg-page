@@ -6,6 +6,8 @@ venue: "13th International Symposium on Empirical Software Engineering and Measu
 year: 2019
 pages: "1--11"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2019-esem-andre.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

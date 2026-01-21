@@ -6,6 +6,8 @@ venue: "Information and Software Technology"
 year: 2020
 pages: "1--6"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2020-ist-skills.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

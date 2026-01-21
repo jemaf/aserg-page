@@ -6,6 +6,8 @@ venue: "23rd International Conference on Software Engineering and Knowledge Engi
 year: 2011
 pages: "426--431"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2011_seke.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

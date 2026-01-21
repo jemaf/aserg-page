@@ -6,6 +6,8 @@ venue: "18th ACM/IEEE International Symposium on Empirical Software Engineering 
 year: 2024
 pages: "1--7"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2024-esem-code-smells-llm.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

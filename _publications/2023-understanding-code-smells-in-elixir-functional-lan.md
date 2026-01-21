@@ -6,6 +6,8 @@ venue: "Empirical Software Engineering"
 year: 2023
 pages: "1--36"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2023-emse-code-smells-elixir.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

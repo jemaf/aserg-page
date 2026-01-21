@@ -6,6 +6,8 @@ venue: "Empirical Software Engineering"
 year: 2023
 pages: "1--36"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2023-emse-test-coverage-exclusion.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

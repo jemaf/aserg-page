@@ -6,6 +6,8 @@ venue: "25th International Conference on Software Engineering and Knowledge Engi
 year: 2013
 pages: "753--758"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_seke_ricardo.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

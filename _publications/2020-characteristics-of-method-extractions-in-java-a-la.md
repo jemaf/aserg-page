@@ -6,6 +6,8 @@ venue: "Empirical Software Engineering"
 year: 2020
 pages: "1798–1833"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2020-emse-extract-method.pdf"
+doi_url: "https://doi.org/10.1007/s10664-020-09809-8"
+slide_url: ""
 ---
 
 {% raw %}

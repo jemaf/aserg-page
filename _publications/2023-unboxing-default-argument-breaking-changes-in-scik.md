@@ -6,6 +6,8 @@ venue: "23rd IEEE International Working Conference on Source Code Analysis and M
 year: 2023
 pages: "1--11"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2023-scam.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

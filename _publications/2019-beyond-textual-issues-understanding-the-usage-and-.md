@@ -6,6 +6,8 @@ venue: "33rd Brazilian Symposium on Software Engineering (SBES)"
 year: 2019
 pages: "1--10"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2019-sbes.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

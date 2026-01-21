@@ -6,6 +6,8 @@ venue: "3rd Brazilian Conference on Software: Theory and Practice (CBSoft), Tool
 year: 2012
 pages: "63--68"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2012_cbsoft_tools_dclfix.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

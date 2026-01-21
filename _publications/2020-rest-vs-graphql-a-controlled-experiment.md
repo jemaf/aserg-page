@@ -6,6 +6,8 @@ venue: "IEEE International Conference on Software Architecture (ICSA)"
 year: 2020
 pages: "1--11"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2020-icsa.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

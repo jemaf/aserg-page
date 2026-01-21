@@ -25,9 +25,17 @@ def extract_publications(html_path, output_dir):
                     bibtex = code.get_text(strip=True)
             # Extract main link URL (first <a> tag's href)
             pdf_url = ''
-            pdf_link = li.find('a', href=True)
-            if pdf_link:
-                pdf_url = pdf_link['href']
+            doi_url = ''
+            slide_url = ''
+            for a in li.find_all('a', href=True):
+                link_text = a.get_text(strip=True)
+                href = a['href']
+                if '[DOI]' in link_text:
+                    doi_url = href
+                elif '[Slides]' in link_text:
+                    slide_url = href
+                elif not pdf_url:
+                    pdf_url = href
             # Extract fields
             title = ''
             authors = ''
@@ -61,6 +69,8 @@ venue: "{venue}"
 year: {year}
 pages: "{pages}"
 pdf_url: "{pdf_url}"
+doi_url: "{doi_url}"
+slide_url: "{slide_url}"
 ---
 
 {{% raw %}}

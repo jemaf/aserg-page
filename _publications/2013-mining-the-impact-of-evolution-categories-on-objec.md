@@ -6,6 +6,8 @@ venue: "Software Quality Journal"
 year: 2013
 pages: "529-549"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_sqj.pdf"
+doi_url: "http://dx.doi.org/10.1007/s11219-012-9186-7"
+slide_url: ""
 ---
 
 {% raw %}

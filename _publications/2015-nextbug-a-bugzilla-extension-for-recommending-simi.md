@@ -6,6 +6,8 @@ venue: "Journal of Software Engineering Research and Development"
 year: 2015
 pages: "1--14"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015_jserd.pdf"
+doi_url: "http://dx.doi.org/10.1186/s40411-015-0018-x"
+slide_url: ""
 ---
 
 {% raw %}

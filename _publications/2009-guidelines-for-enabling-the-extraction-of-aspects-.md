@@ -6,6 +6,8 @@ venue: "Journal of Object Technology"
 year: 2009
 pages: "1-19"
 pdf_url: "http://www.jot.fm/issues/issue_2009_05/article3/index.html"
+doi_url: "http://dx.doi.org/10.5381/jot.2009.8.3.a3"
+slide_url: ""
 ---
 
 {% raw %}

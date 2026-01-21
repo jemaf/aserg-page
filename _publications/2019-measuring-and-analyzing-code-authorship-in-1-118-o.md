@@ -6,6 +6,8 @@ venue: "Science of Computer Programming"
 year: 2019
 pages: "14--32"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2019-scp.pdf"
+doi_url: "https://doi.org/10.1016/j.scico.2019.03.001"
+slide_url: ""
 ---
 
 {% raw %}

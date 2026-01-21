@@ -6,6 +6,8 @@ venue: "19th IEEE/ACM International Conference on Mining Software Repositories (
 year: 2022
 pages: "1--5"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2022-msr-test-quality.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

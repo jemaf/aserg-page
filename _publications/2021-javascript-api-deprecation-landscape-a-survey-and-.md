@@ -6,6 +6,8 @@ venue: "IEEE Software"
 year: 2021
 pages: "1--15"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2021-ieee-soft-javascript-deprecation.pdf"
+doi_url: "https://doi.ieeecomputersociety.org/10.1109/MS.2021.3103134"
+slide_url: ""
 ---
 
 {% raw %}

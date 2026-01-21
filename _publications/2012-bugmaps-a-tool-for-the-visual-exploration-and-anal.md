@@ -6,6 +6,8 @@ venue: "16th European Conference on Software Maintenance and Reengineering (CSMR
 year: 2012
 pages: "523--526"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2012_csmr_bugmaps.pdf"
+doi_url: "http://dx.doi.org/10.1109/CSMR.2012.68"
+slide_url: ""
 ---
 
 {% raw %}

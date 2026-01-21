@@ -6,6 +6,8 @@ venue: "16th International Conference on Mining Software Repositories (MSR)"
 year: 2019
 pages: "276--287"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2019-msr.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

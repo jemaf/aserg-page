@@ -6,6 +6,8 @@ venue: "Journal of Systems and Software"
 year: 2023
 pages: "1--7"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2023-jss-snapshot.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

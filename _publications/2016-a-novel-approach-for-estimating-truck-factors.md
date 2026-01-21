@@ -6,6 +6,8 @@ venue: "24th International Conference on Program Comprehension (ICPC)"
 year: 2016
 pages: "1--10"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2016-icpc.pdf"
+doi_url: "http://dx.doi.org/10.1109/ICPC.2016.7503718"
+slide_url: "https://speakerdeck.com/aserg_ufmg/a-novel-approach-for-estimating-truck-factors-icpc-2016"
 ---
 
 {% raw %}

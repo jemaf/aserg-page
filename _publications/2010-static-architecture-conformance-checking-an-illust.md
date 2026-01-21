@@ -6,6 +6,8 @@ venue: "IEEE Software"
 year: 2010
 pages: "82--89"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2010_ieeesw.pdf"
+doi_url: "http://dx.doi.org/10.1109/MS.2009.117"
+slide_url: ""
 ---
 
 {% raw %}

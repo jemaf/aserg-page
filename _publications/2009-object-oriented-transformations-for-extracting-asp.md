@@ -6,6 +6,8 @@ venue: "Information and Software Technology"
 year: 2009
 pages: "138--149"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2009_ist.pdf"
+doi_url: "http://dx.doi.org/10.1016/j.infsof.2008.02.001"
+slide_url: ""
 ---
 
 {% raw %}

@@ -6,6 +6,8 @@ venue: "20th Working Conference on Reverse Engineering (WCRE)"
 year: 2013
 pages: "401--408"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_wcre_apiminer.pdf"
+doi_url: "http://dx.doi.org/10.1109/WCRE.2013.6671315"
+slide_url: "https://speakerdeck.com/aserg_ufmg/documenting-apis-with-examples-lessons-learned-with-the-apiminer-platform-wcre-2013"
 ---
 
 {% raw %}

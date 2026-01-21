@@ -6,6 +6,8 @@ venue: "Journal of Systems and Software"
 year: 2018
 pages: "112--129"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2018-jss-github-stars.pdf"
+doi_url: "https://doi.org/10.1016/j.jss.2018.09.016"
+slide_url: ""
 ---
 
 {% raw %}

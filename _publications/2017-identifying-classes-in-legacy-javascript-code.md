@@ -6,6 +6,8 @@ venue: "Journal of Software: Evolution and Process"
 year: 2017
 pages: "1--20"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2017-jsep.pdf"
+doi_url: "http://dx.doi.org/10.1002/smr.1864"
+slide_url: ""
 ---
 
 {% raw %}

@@ -6,6 +6,8 @@ venue: "14th Brazilian Symposium on Software Components, Architectures, and Reus
 year: 2020
 pages: "1--10"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2020-sbcars.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

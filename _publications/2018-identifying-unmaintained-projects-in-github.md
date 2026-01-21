@@ -6,6 +6,8 @@ venue: "12th International Symposium on Empirical Software Engineering and Measu
 year: 2018
 pages: "1-10"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2018-esem.pdf"
+doi_url: "https://doi.org/10.1145/3239235.3240501"
+slide_url: "https://speakerdeck.com/aserg_ufmg/identifying-unmaintained-projects-in-github-esem-2018"
 ---
 
 {% raw %}

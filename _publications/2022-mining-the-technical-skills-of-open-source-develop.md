@@ -6,6 +6,8 @@ venue: "Thesis and Dissertations Contest (CTD) - Brazilian Computer Society (SBC
 year: 2022
 pages: "1--10"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2022-ctd-joao.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

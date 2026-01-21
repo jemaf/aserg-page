@@ -6,6 +6,8 @@ venue: "PeerJ Computer Science"
 year: 2015
 pages: "1--13"
 pdf_url: "https://peerj.com/articles/cs-12.pdf"
+doi_url: "https://doi.org/10.7717/peerj-cs.12"
+slide_url: ""
 ---
 
 {% raw %}

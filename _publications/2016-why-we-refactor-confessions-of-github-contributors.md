@@ -6,6 +6,8 @@ venue: "24th International Symposium on the Foundations of Software Engineering 
 year: 2016
 pages: "858--870"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2016-fse-why-we-refactor.pdf"
+doi_url: "http://dx.doi.org/10.1145/2950290.2950305"
+slide_url: "https://speakerdeck.com/aserg_ufmg/why-we-refactor-confessions-of-github-contributors-fse-2016"
 ---
 
 {% raw %}

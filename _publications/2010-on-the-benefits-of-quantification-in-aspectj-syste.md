@@ -6,6 +6,8 @@ venue: "Journal of the Brazilian Computer Society"
 year: 2010
 pages: "133--146"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2010_jbcs.pdf"
+doi_url: "http://dx.doi.org/10.1007/s13173-010-0008-0"
+slide_url: ""
 ---
 
 {% raw %}

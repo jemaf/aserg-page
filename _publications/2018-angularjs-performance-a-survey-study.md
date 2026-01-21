@@ -6,6 +6,8 @@ venue: "IEEE Software"
 year: 2018
 pages: "72--79"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2017-ieeesw.pdf"
+doi_url: "http://dx.doi.org/10.1109/MS.2017.265100610"
+slide_url: ""
 ---
 
 {% raw %}

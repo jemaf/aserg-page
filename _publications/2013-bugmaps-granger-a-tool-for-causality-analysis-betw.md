@@ -6,6 +6,8 @@ venue: "4th Brazilian Conference on Software: Theory and Practice (CBSoft), Tool
 year: 2013
 pages: "1--6"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_cbsoft_tools_bugmapsgranger.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

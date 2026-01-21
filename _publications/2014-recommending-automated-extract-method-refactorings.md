@@ -6,6 +6,8 @@ venue: "22nd IEEE International Conference on Program Comprehension (ICPC)"
 year: 2014
 pages: "146--156"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_icpc.pdf"
+doi_url: "http://dx.doi.org/10.1145/2597008.2597141"
+slide_url: "https://speakerdeck.com/aserg_ufmg/recommending-automated-extract-method-refactorings-icpc-2014"
 ---
 
 {% raw %}

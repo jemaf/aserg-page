@@ -6,6 +6,8 @@ venue: "28th Symposium on Applied Computing (SAC), Software Engineering Track"
 year: 2013
 pages: "1068--1073"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_sac.pdf"
+doi_url: "http://dx.doi.org/10.1145/2480362.2480565"
+slide_url: ""
 ---
 
 {% raw %}

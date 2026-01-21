@@ -6,6 +6,8 @@ venue: "Empirical Software Engineering"
 year: 2022
 pages: "1--42"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2022-emse-how-why-complex-methods.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

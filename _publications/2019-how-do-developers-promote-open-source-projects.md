@@ -6,6 +6,8 @@ venue: "IEEE Computer"
 year: 2019
 pages: "27--33"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2018-ieee-computer.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

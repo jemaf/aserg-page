@@ -6,6 +6,8 @@ venue: "2nd European Conference on Software Architecture (ECSA)"
 year: 2008
 pages: "256-263"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2008_ecsa.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

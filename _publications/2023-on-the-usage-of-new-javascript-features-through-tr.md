@@ -6,6 +6,8 @@ venue: "IEEE Software"
 year: 2023
 pages: "1--12"
 pdf_url: "javascript:void(0)"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

@@ -6,6 +6,8 @@ venue: "5th Brazilian Conference on Software: Theory and Practice (CBSoft), Tool
 year: 2014
 pages: "1--6"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_cbsoft_nextbug.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

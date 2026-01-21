@@ -6,6 +6,8 @@ venue: "24th International Conference on Software Analysis, Evolution and Reengi
 year: 2017
 pages: "138--147"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2017-saner-breaking-apis.pdf"
+doi_url: "https://doi.org/10.1109/SANER.2017.7884616"
+slide_url: "https://speakerdeck.com/aserg_ufmg/historical-and-impact-analysis-of-api-breaking-changes-a-large-scale-study-saner-2017"
 ---
 
 {% raw %}

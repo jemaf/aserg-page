@@ -6,6 +6,8 @@ venue: "Transactions on Aspect-Oriented Software Development XII"
 year: 2015
 pages: "96--131"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015_taosd.pdf"
+doi_url: "http://dx.doi.org/10.1007/978-3-662-46734-3_3"
+slide_url: ""
 ---
 
 {% raw %}

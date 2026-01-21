@@ -6,6 +6,8 @@ venue: "6th International Workshop on Feature-Oriented Software Development (FOS
 year: 2014
 pages: "23--29"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_fosd.pdf"
+doi_url: "http://dx.doi.org/10.1145/2660190.2662114"
+slide_url: "https://speakerdeck.com/aserg_ufmg/does-feature-scattering-follow-power-law-distributions-fosd-2014"
 ---
 
 {% raw %}

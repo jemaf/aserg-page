@@ -6,6 +6,8 @@ venue: "Journal of Software: Evolution and Process"
 year: 2024
 pages: "1--22"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2023-jsep.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}

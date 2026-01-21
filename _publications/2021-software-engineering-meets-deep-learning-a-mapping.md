@@ -6,6 +6,8 @@ venue: "36th ACM/SIGAPP Symposium on Applied Computing (SAC), Software Engineeri
 year: 2021
 pages: "1--8"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2021-sac.pdf"
+doi_url: ""
+slide_url: ""
 ---
 
 {% raw %}
