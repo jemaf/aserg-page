@@ -1,13 +1,12 @@
 ---
 layout: publication
 title: "Characteristics of Method Extractions in Java: A Large Scale Empirical Study"
-authors: "Andre Hora and Romain Robbes"
+authors: "Andre Hora, Romain Robbes"
 venue: "Empirical Software Engineering"
 year: 2020
 pages: "1798–1833"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2020-emse-extract-method.pdf"
 ---
-
 
 {% raw %}
 @article{emse2020_andre, 

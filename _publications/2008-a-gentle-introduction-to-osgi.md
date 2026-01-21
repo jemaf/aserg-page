@@ -1,13 +1,12 @@
 ---
 layout: publication
-title: "A Gentle Introduction to {OSGi"
-authors: "Andre Tavares and Marco Tulio Valente"
+title: "A Gentle Introduction to OSGi"
+authors: "Andre Tavares, Marco Tulio Valente"
 venue: "ACM SIGSOFT Software Engineering Notes"
 year: 2008
 pages: "1--5"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2008_sen.pdf"
 ---
-
 
 {% raw %}
 @article{sen2008, 

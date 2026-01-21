@@ -1,13 +1,12 @@
 ---
 layout: publication
 title: "A Semi-automatic Approach for Extracting Software Product Lines"
-authors: "Marco Tulio Valente and Virgilio Borges and Leonardo Passos"
+authors: "Marco Tulio Valente, Virgilio Borges, Leonardo Passos"
 venue: "IEEE Transactions on Software Engineering"
 year: 2012
 pages: "737--754"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2012_tse.pdf"
 ---
-
 
 {% raw %}
 @article {tse2012, 

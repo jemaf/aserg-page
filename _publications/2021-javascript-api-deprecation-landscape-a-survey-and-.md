@@ -1,13 +1,12 @@
 ---
 layout: publication
 title: "JavaScript API Deprecation Landscape: A Survey and Mining Study"
-authors: "Romulo Nascimento and Eduardo Figueiredo and Andre Hora"
+authors: "Romulo Nascimento, Eduardo Figueiredo, Andre Hora"
 venue: "IEEE Software"
 year: 2021
 pages: "1--15"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2021-ieee-soft-javascript-deprecation.pdf"
 ---
-
 
 {% raw %}
 @article{ieeesw_2022, 

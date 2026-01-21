@@ -1,6 +1,7 @@
 import os
 import re
 from bs4 import BeautifulSoup
+import bibtexparser
 
 def extract_publications(html_path, output_dir):
     with open(html_path, 'r', encoding='utf-8') as f:
@@ -13,7 +14,7 @@ def extract_publications(html_path, output_dir):
         if not ol:
             continue
         for li in ol.find_all('li', recursive=False):
-            # Extract authors, title, venue, pages, pdf_url
+            # Extract text for fallback parsing
             text = li.get_text(' ', strip=True)
             # Try to extract BibTeX from the following <div> (if present)
             bibtex = ''
@@ -27,26 +28,22 @@ def extract_publications(html_path, output_dir):
             pdf_link = li.find('a', href=True)
             if pdf_link:
                 pdf_url = pdf_link['href']
-            # Extract title (from BibTeX if possible)
+            # Extract fields
             title = ''
             authors = ''
             venue = ''
             pages = ''
             if bibtex:
-                m = re.search(r'title\s*=\s*[{\"](.+?)[}\"]', bibtex, re.DOTALL)
-                if m:
-                    title = m.group(1).replace('\n', ' ').strip()
-                m = re.search(r'author\s*=\s*[{\"](.+?)[}\"]', bibtex, re.DOTALL)
-                if m:
-                    authors = m.group(1).replace('\n', ' ').strip()
-                m = re.search(r'booktitle\s*=\s*[{\"](.+?)[}\"]', bibtex, re.DOTALL)
-                if not m:
-                    m = re.search(r'journal\s*=\s*[{\"](.+?)[}\"]', bibtex, re.DOTALL)
-                if m:
-                    venue = m.group(1).replace('\n', ' ').strip()
-                m = re.search(r'pages\s*=\s*[{\"](.+?)[}\"]', bibtex, re.DOTALL)
-                if m:
-                    pages = m.group(1).replace('\n', ' ').strip()
+                try:
+                    bib_db = bibtexparser.loads(bibtex)
+                    if bib_db.entries:
+                        entry = bib_db.entries[0]
+                        title = entry.get('title', '').replace('\n', ' ').replace('{', '').replace('}', '').strip()
+                        authors = entry.get('author', '').replace('\n', ' ').replace(' and ', ', ').strip()
+                        venue = entry.get('booktitle', entry.get('journal', '')).replace('\n', ' ').strip()
+                        pages = entry.get('pages', '').replace('\n', ' ').strip()
+                except Exception as e:
+                    print(f"BibTeX parse error: {e}")
             # Fallbacks
             if not title:
                 # Try to extract title from text (after authors)
@@ -65,7 +62,6 @@ year: {year}
 pages: "{pages}"
 pdf_url: "{pdf_url}"
 ---
-
 
 {{% raw %}}
 {bibtex}

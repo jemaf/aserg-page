@@ -8,7 +8,6 @@ pages: "319--352"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2021-spe-apisonar.pdf"
 ---
 
-
 {% raw %}
 @article{spe2021_apisonar, 
   author = {Andre Hora}, 

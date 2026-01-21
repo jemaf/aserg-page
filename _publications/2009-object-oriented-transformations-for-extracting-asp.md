@@ -1,13 +1,12 @@
 ---
 layout: publication
 title: "Object-Oriented Transformations for Extracting Aspects"
-authors: "Marcelo Nassau and Marco Tulio Valente"
+authors: "Marcelo Nassau, Marco Tulio Valente"
 venue: "Information and Software Technology"
 year: 2009
 pages: "138--149"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2009_ist.pdf"
 ---
-
 
 {% raw %}
 @article{ist2009, 

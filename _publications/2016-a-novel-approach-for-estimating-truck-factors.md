@@ -1,13 +1,12 @@
 ---
 layout: publication
 title: "A Novel Approach for Estimating Truck Factors"
-authors: "Guilherme Avelino and Leonardo Passos and Andre Hora and Marco Tulio Valente"
+authors: "Guilherme Avelino, Leonardo Passos, Andre Hora, Marco Tulio Valente"
 venue: "24th International Conference on Program Comprehension (ICPC)"
 year: 2016
 pages: "1--10"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2016-icpc.pdf"
 ---
-
 
 {% raw %}
 @inproceedings{icpc2016, 

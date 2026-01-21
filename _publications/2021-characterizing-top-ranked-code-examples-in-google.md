@@ -8,7 +8,6 @@ pages: "1--15"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2021-jss-top-ranked-code-examples-google.pdf"
 ---
 
-
 {% raw %}
 @article{jss2021_top_examples, 
   author = {Andre Hora}, 

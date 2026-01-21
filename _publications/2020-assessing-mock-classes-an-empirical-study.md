@@ -8,7 +8,6 @@ pages: "1--11"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2020-icsme-mock-classes.pdf"
 ---
 
-
 {% raw %}
 @inproceedings{icsme2020, 
   author = {Gustavo Pereira, Andre Hora}, 

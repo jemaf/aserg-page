@@ -1,13 +1,12 @@
 ---
 layout: publication
 title: "Are game engines software frameworks? A three-perspective study"
-authors: "Cristiano Politowski and Fabio Petrillo and Joao Eduardo Montandon and Marco Tulio Valente and Yann-Gael Gueheneu"
+authors: "Cristiano Politowski, Fabio Petrillo, Joao Eduardo Montandon, Marco Tulio Valente, Yann-Gael Gueheneu"
 venue: "Journal of Systems and Software"
 year: 2021
 pages: "1--17"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2021-jss-games.pdf"
 ---
-
 
 {% raw %}
 @article{jss2021, 

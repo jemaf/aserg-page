@@ -8,7 +8,6 @@ pages: "392-402"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2021-msr-test-coverage-exclusion.pdf"
 ---
 
-
 {% raw %}
 @inproceedings{msr2021_test_coverage, 
   author = {Andre Hora}, 

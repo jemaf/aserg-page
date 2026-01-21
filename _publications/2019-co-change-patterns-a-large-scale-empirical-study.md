@@ -1,13 +1,12 @@
 ---
 layout: publication
 title: "Co-Change Patterns: A Large Scale Empirical Study"
-authors: "Luciana Silva and Marco Tulio Valente and Marcelo Maia"
+authors: "Luciana Silva, Marco Tulio Valente, Marcelo Maia"
 venue: "Journal of Systems and Software"
 year: 2019
 pages: "196--214"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2019-jss.pdf"
 ---
-
 
 {% raw %}
 @article{jss2019, 

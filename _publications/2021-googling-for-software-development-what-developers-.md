@@ -8,7 +8,6 @@ pages: "317-328"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2021-msr-googling-for-development.pdf"
 ---
 
-
 {% raw %}
 @inproceedings{msr2021_googling, 
   author = {Andre Hora}, 
