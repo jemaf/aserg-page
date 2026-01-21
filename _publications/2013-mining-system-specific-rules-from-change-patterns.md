@@ -8,6 +8,7 @@ pages: "331--340"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_wcre_hora.pdf"
 doi_url: "http://dx.doi.org/10.1109/WCRE.2013.6671308"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

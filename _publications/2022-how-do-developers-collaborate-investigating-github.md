@@ -8,6 +8,7 @@ pages: "1--31"
 pdf_url: "javascript:void(0)"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

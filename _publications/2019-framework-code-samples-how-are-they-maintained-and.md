@@ -8,6 +8,7 @@ pages: "1--11"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2019-esem-andre.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

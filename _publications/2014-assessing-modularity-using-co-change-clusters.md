@@ -8,6 +8,7 @@ pages: "49--60"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_modularity.pdf"
 doi_url: "http://dx.doi.org/10.1145/2577080.2577086"
 slide_url: "https://speakerdeck.com/aserg_ufmg/assessing-modularity-using-co-change-clusters-modularity-2014"
+award: ""
 ---
 
 {% raw %}

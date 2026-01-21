@@ -8,6 +8,7 @@ pages: "151--163"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2017-oss.pdf"
 doi_url: "http://dx.doi.org/10.1007/978-3-319-57735-7_15"
 slide_url: "https://speakerdeck.com/aserg_ufmg/assessing-code-authorship-the-case-of-the-linux-kernel-oss-2017"
+award: ""
 ---
 
 {% raw %}

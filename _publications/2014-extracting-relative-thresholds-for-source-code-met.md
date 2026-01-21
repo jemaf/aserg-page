@@ -8,6 +8,7 @@ pages: "254--263"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_csmrwcre_thresholds.pdf"
 doi_url: "http://dx.doi.org/10.1109/CSMR-WCRE.2014.6747177"
 slide_url: "https://speakerdeck.com/aserg_ufmg/extracting-relative-thresholds-for-source-code-metrics-csmr-wcre-2014"
+award: ""
 ---
 
 {% raw %}

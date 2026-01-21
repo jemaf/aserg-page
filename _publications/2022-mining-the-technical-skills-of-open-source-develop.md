@@ -8,6 +8,7 @@ pages: "1--10"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2022-ctd-joao.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

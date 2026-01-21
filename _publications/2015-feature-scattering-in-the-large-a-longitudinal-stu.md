@@ -8,6 +8,7 @@ pages: "81--92"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015_modularity.pdf"
 doi_url: "http://dx.doi.org/10.1145/2724525.2724575"
 slide_url: "https://speakerdeck.com/aserg_ufmg/feature-scattering-in-the-large-a-longitudinal-study-of-linux-kernel-device-drivers-modularity-2015-best-paper-award"
+award: "Best paper award"
 ---
 
 {% raw %}

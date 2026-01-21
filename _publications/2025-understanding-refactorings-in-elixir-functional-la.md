@@ -8,6 +8,7 @@ pages: "1--58"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/emse2025-elixir-refactorings.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

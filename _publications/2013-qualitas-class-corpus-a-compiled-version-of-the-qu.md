@@ -8,6 +8,7 @@ pages: "1--4"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_sen_qualitasclass.pdf"
 doi_url: "http://dx.doi.org/10.1145/2507288.2507314"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

@@ -8,6 +8,7 @@ pages: "13--23"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2023-less-techincal-debt.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

@@ -8,6 +8,7 @@ pages: "1--5"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2022-saner-era-javascript-deprecation-evolution.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

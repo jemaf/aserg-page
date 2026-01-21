@@ -8,6 +8,7 @@ pages: "335--340"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2012_csmr_era.pdf"
 doi_url: "http://dx.doi.org/10.1109/CSMR.2012.40"
 slide_url: "https://speakerdeck.com/aserg_ufmg/recommending-refactorings-to-reverse-software-architecture-erosion-csmr-2012"
+award: ""
 ---
 
 {% raw %}

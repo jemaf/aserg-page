@@ -8,6 +8,7 @@ pages: "1--17"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2021-jss-games.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

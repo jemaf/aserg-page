@@ -8,6 +8,7 @@ pages: "420--424"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_csmrwcre_apievolutionminer.pdf"
 doi_url: "http://dx.doi.org/10.1109/CSMR-WCRE.2014.6747209"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

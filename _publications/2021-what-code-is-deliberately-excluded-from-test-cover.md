@@ -8,6 +8,7 @@ pages: "392-402"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2021-msr-test-coverage-exclusion.pdf"
 doi_url: ""
 slide_url: ""
+award: "ACM Distinguished Paper Award"
 ---
 
 {% raw %}

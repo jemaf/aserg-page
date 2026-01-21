@@ -8,6 +8,7 @@ pages: "1--5"
 pdf_url: "https://arxiv.org/pdf/2511.09268"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

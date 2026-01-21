@@ -8,6 +8,7 @@ pages: "649--653"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2019-saner-gocity.pdf"
 doi_url: "https://doi.org/10.1109/SANER.2019.8668008"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

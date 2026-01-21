@@ -8,6 +8,7 @@ pages: "1--12"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_jserd.pdf"
 doi_url: "http://dx.doi.org/10.1186/2195-1721-2-1"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

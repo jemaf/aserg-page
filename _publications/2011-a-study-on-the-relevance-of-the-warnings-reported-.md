@@ -8,6 +8,7 @@ pages: "366--374"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2011_ietsw.pdf"
 doi_url: "http://dx.doi.org/10.1049/iet-sen.2009.0083"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

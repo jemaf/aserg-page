@@ -8,6 +8,7 @@ pages: "1--36"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2024-jss-refactoring-react.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

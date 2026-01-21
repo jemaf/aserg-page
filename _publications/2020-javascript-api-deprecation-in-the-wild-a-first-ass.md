@@ -8,6 +8,7 @@ pages: "567-571"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2020-saner-era-javascript-deprecation.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

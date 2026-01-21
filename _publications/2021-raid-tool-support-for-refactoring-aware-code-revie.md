@@ -8,6 +8,7 @@ pages: "1--11"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2021-icpc.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

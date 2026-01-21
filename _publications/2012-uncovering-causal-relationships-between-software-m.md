@@ -8,6 +8,7 @@ pages: "223--232"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2012_csmr.pdf"
 doi_url: "http://dx.doi.org/10.1109/CSMR.2012.31"
 slide_url: "https://speakerdeck.com/aserg_ufmg/uncovering-causal-relationships-between-software-metrics-and-bugs-csmr-2012"
+award: ""
 ---
 
 {% raw %}

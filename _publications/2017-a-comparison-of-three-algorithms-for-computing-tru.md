@@ -8,6 +8,7 @@ pages: "207--217"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2017-icpc.pdf"
 doi_url: "https://doi.org/10.1109/ICPC.2017.35"
 slide_url: "https://speakerdeck.com/aserg_ufmg/a-comparison-of-three-algorithms-for-computing-truck-factors-icpc-2017"
+award: ""
 ---
 
 {% raw %}

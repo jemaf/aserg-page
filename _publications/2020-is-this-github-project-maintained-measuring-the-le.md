@@ -8,6 +8,7 @@ pages: "1--35"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2020-ist-jailton.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

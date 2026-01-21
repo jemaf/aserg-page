@@ -8,6 +8,7 @@ pages: "1918--1922"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2008_sac.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

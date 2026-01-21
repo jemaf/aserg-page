@@ -60,6 +60,13 @@ def extract_publications(html_path, output_dir):
                     title = parts[1].strip()
             if not authors:
                 authors = text.split('.')[0].strip()
+            # Extract award/note from <b> tag if present
+            award = ''
+            b_tag = li.find('b')
+            if b_tag:
+                award = b_tag.get_text(strip=True)
+                if award.endswith('.'):
+                    award = award[:-1]
             # Compose markdown
             md = f"""---
 layout: publication
@@ -71,6 +78,7 @@ pages: "{pages}"
 pdf_url: "{pdf_url}"
 doi_url: "{doi_url}"
 slide_url: "{slide_url}"
+award: "{award}"
 ---
 
 {{% raw %}}

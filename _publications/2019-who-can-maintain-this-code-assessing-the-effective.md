@@ -8,6 +8,7 @@ pages: "1--15"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2018-ieeesw.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

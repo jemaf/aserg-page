@@ -8,6 +8,7 @@ pages: "1--9"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2026-ai-sqe-icse-workshop.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

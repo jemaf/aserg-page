@@ -8,6 +8,7 @@ pages: "854--895"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015_emse.pdf"
 doi_url: "http://dx.doi.org/10.1007/s10664-014-9348-2"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

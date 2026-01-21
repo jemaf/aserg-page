@@ -8,6 +8,7 @@ pages: "37--48"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2016-icpe.pdf"
 doi_url: "http://dx.doi.org/10.1145/2851553.2851571"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

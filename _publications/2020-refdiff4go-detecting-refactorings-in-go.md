@@ -8,6 +8,7 @@ pages: "1--10"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2020-sbcars.pdf"
 doi_url: ""
 slide_url: ""
+award: "2nd Best Paper Award"
 ---
 
 {% raw %}

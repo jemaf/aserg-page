@@ -8,6 +8,7 @@ pages: "315--342"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_spe.pdf"
 doi_url: "http://dx.doi.org/10.1002/spe.2228"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

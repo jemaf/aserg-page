@@ -8,6 +8,7 @@ pages: "67--76"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2008_icsm.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

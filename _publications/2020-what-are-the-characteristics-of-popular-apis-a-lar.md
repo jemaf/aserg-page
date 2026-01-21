@@ -8,6 +8,7 @@ pages: "425–458"
 pdf_url: "https://homepages.dcc.ufmg.br/~andrehora/pub/2019-sqj-caroline.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

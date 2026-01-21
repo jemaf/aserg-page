@@ -8,6 +8,7 @@ pages: "232--241"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_wcre_jmove.pdf"
 doi_url: "http://dx.doi.org/10.1109/WCRE.2013.6671298"
 slide_url: "https://speakerdeck.com/aserg_ufmg/recommending-move-method-refactorings-using-dependency-sets-wcre-2013"
+award: ""
 ---
 
 {% raw %}

@@ -8,6 +8,7 @@ pages: "73--82"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015_saner.pdf"
 doi_url: "http://dx.doi.org/10.1109/SANER.2015.7081817"
 slide_url: "https://speakerdeck.com/aserg_ufmg/does-javascript-software-embrace-classes-saner-2015"
+award: ""
 ---
 
 {% raw %}

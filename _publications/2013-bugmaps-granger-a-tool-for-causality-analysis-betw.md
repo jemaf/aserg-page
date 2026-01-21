@@ -8,6 +8,7 @@ pages: "1--6"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2013_cbsoft_tools_bugmapsgranger.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

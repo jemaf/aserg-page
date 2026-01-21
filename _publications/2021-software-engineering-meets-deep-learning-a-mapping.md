@@ -8,6 +8,7 @@ pages: "1--8"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2021-sac.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

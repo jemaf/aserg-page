@@ -8,6 +8,7 @@ pages: "21--30"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015_icsme_luciana.pdf"
 doi_url: "http://doi.acm.org/10.1145/2724525.2724575"
 slide_url: "https://speakerdeck.com/aserg_ufmg/developers-perception-of-co-change-patterns-an-empirical-study-icsme-2015"
+award: ""
 ---
 
 {% raw %}

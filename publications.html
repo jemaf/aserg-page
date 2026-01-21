@@ -22,6 +22,9 @@ title: Publications
   {% else %}
     <em>{{ publication.venue }}</em>, pages {{ publication.pages }}, {{ publication.year }}.
   {% endif %}
+  {% if publication.award and publication.award != "" %}
+  <b>{{ publication.award }}.</b>
+  {% endif %}
   <a href="#" class="papercite_toggle">[BibTeX]</a>
   <div class="papercite_bibtex">
     <pre><code class="tex bibtex">{{ publication.content | raw}}</code></pre>

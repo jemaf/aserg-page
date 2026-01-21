@@ -8,6 +8,7 @@ pages: "1--22"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2023-jsep.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

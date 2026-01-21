@@ -8,6 +8,7 @@ pages: "224--233"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2014_csmrwcre_clustering.pdf"
 doi_url: "http://dx.doi.org/10.1109/CSMR-WCRE.2014.6747174"
 slide_url: "https://speakerdeck.com/aserg_ufmg/remodularization-analysis-using-semantic-clustering-csmr-wcre-2014"
+award: ""
 ---
 
 {% raw %}

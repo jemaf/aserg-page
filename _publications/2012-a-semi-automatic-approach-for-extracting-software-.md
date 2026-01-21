@@ -8,6 +8,7 @@ pages: "737--754"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2012_tse.pdf"
 doi_url: "http://dx.doi.org/10.1109/TSE.2011.57"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

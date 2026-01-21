@@ -8,6 +8,7 @@ pages: "1--11"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2019-esem-guilherme.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

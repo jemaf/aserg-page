@@ -8,6 +8,7 @@ pages: "426--431"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2011_seke.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

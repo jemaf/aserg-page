@@ -8,6 +8,7 @@ pages: "161--191"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2017-sqj.pdf"
 doi_url: "http://dx.doi.org/10.1007/s11219-016-9344-4"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

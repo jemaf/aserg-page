@@ -8,6 +8,7 @@ pages: "614--618"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2016-saner-era.pdf"
 doi_url: "http://dx.doi.org/10.1109/SANER.2016.58"
 slide_url: "https://speakerdeck.com/aserg_ufmg/identifying-utility-functions-using-random-forests-saner-2016"
+award: ""
 ---
 
 {% raw %}

@@ -8,6 +8,7 @@ pages: "140--150"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2019-saner-graphql.pdf"
 doi_url: "https://doi.org/10.1109/SANER.2019.8667986"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

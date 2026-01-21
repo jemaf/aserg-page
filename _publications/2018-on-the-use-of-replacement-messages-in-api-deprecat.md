@@ -8,6 +8,7 @@ pages: "306--321"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2018-jss-api.pdf"
 doi_url: "https://doi.org/10.1016/j.jss.2017.12.007"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

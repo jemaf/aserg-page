@@ -8,6 +8,7 @@ pages: "1--37"
 pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2019-sqj.pdf"
 doi_url: ""
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

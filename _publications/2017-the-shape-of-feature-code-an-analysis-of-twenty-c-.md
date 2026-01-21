@@ -8,6 +8,7 @@ pages: "77--96"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015_sosym.pdf"
 doi_url: "http://dx.doi.org/10.1007/s10270-015-0483-z"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

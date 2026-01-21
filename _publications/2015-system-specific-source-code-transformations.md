@@ -8,6 +8,7 @@ pages: "221--230"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2015-icsme-gustavo.pdf"
 doi_url: "http://dx.doi.org/10.1109/ICSM.2015.7332468"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}

@@ -8,6 +8,7 @@ pages: "12:1--12:25"
 pdf_url: "http://www.dcc.ufmg.br/~mtov/pub/2017-jbcs.pdf"
 doi_url: "https://doi.org/10.1186/s13173-017-0061-z"
 slide_url: ""
+award: ""
 ---
 
 {% raw %}
