@@ -19,8 +19,9 @@ RUN apk add --no-cache \
 # Set working directory
 WORKDIR /app
 
-# Copy Gemfile and install dependencies
+# Copy Gemfile and Gemfile.lock and install dependencies
 COPY Gemfile ./
+COPY Gemfile.lock ./
 RUN bundle config set --local build.nokogiri --use-system-libraries
 RUN bundle install --jobs 4 --retry 3
 

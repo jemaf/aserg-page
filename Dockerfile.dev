@@ -1,6 +1,7 @@
 FROM ruby:3.2-alpine
 
 # Install build dependencies
+
 RUN apk add --no-cache \
     build-base \
     gcc \
@@ -13,13 +14,16 @@ RUN apk add --no-cache \
     libxslt-dev \
     readline-dev \
     yaml-dev \
-    zlib-dev
+    zlib-dev \
+    python3
+
 
 # Set working directory
 WORKDIR /app
 
 # Copy Gemfile and install dependencies
 COPY Gemfile ./
+COPY Gemfile.lock ./
 RUN bundle config set --local build.nokogiri --use-system-libraries
 RUN bundle install --jobs 4 --retry 3
 
