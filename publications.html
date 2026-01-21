@@ -6,8 +6,8 @@ title: Publications
 {% assign publications_by_year = site.publications | group_by: "year" | sort: "name" | reverse %}
 
 {% for year_group in publications_by_year %}
+{% if year_group.name >= '2008' %}
 <h3>{{ year_group.name }}</h3>
-
 <ol>
 {% for publication in year_group.items %}
 <li>
@@ -38,4 +38,7 @@ title: Publications
 </li>
 {% endfor %}
 </ol>
+{% endif %}
 {% endfor %} 
+
+<p><b>See also: </b><a href="{{ '/publications_old/' | relative_url }}">Publications before 2007</a></p>

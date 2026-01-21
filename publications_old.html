@@ -1,0 +1,42 @@
+---
+layout: default
+title: Publications before 2007
+---
+
+{% assign publications_by_year = site.publications | group_by: "year" | sort: "name" | reverse %}
+
+{% for year_group in publications_by_year %}
+  {% if year_group.name <= '2007' %}
+<h3>{{ year_group.name }}</h3>
+<ol>
+{% for publication in year_group.items %}
+<li>
+  {% if publication.pdf_url and publication.pdf_url != "#" %}
+    <a href="{{ publication.pdf_url }}" target="_blank"><img src="/assets/pdfs/pdf.png" alt="PDF" style="height: 1em; vertical-align: middle;" /></a>
+  {% else %}
+    [PDF]
+  {% endif %}
+  {{ publication.authors }}. {{ publication.title }}. 
+  {% if publication.type == "conference" %}
+    In <em>{{ publication.venue }}</em>, pages {{ publication.pages }}, {{ publication.year }}.
+  {% else %}
+    <em>{{ publication.venue }}</em>, pages {{ publication.pages }}, {{ publication.year }}.
+  {% endif %}
+  {% if publication.award and publication.award != "" %}
+  <b>{{ publication.award }}.</b>
+  {% endif %}
+  <a href="#" class="papercite_toggle">[BibTeX]</a>
+  <div class="papercite_bibtex">
+    <pre><code class="tex bibtex">{{ publication.content | raw}}</code></pre>
+  </div>
+  {% if publication.doi_url and publication.doi_url != "" %}
+  <a href="{{publication.doi_url}}">[DOI]</a>
+  {% endif %}
+  {% if publication.slide_url and publication.slide_url != "" %}
+  <a href="{{publication.slide_url}}">[Slides]</a>
+  {% endif %}
+</li>
+{% endfor %}
+</ol>
+  {% endif %}
+{% endfor %}
