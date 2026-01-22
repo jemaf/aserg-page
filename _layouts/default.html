@@ -40,22 +40,22 @@
             <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
             <div class="menu-header">
                 <ul id="menu-main_menu" class="menu">
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page{% if page.url == '/' %} current-menu-item current_page_item{% endif %}">
                         <a href="{{ '/' | relative_url }}">Home</a>
                     </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page{% if page.url == '/members/' %} current-menu-item current_page_item{% endif %}">
                         <a href="{{ '/members/' | relative_url }}">Members</a>
                     </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page{% if page.url == '/publications/' %} current-menu-item current_page_item{% endif %}">
                         <a href="{{ '/publications/' | relative_url }}">Publications</a>
                     </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page{% if page.url == '/theses/' %} current-menu-item current_page_item{% endif %}">
                         <a href="{{ '/theses/' | relative_url }}">Theses</a>
                     </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page{% if page.url == '/software/' %} current-menu-item current_page_item{% endif %}">
                         <a href="{{ '/software/' | relative_url }}">Software and Datasets</a>
                     </li>
-                    <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                    <li class="menu-item menu-item-type-post_type menu-item-object-page{% if page.url == '/contact/' %} current-menu-item current_page_item{% endif %}">
                         <a href="{{ '/contact/' | relative_url }}">Contact</a>
                     </li>
                 </ul>
