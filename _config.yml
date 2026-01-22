@@ -17,6 +17,9 @@ collections:
     permalink: /:collection/:title/
   publications:
     output: false
+  publications_ptbr:
+    output: false
+    directory: publications-ptbr
 
 # Defaults
 defaults:

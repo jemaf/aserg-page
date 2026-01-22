@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Publications before 2007
+title: Papers in Brazilian Conferences
 ---
 
-{% assign publications_by_year = site.publications | group_by: "year" | sort: "name" | reverse %}
+{% assign publications_by_year = site.publications_ptbr | group_by: "year" | sort: "name" | reverse %}
 
 {% for year_group in publications_by_year %}
-  {% if year_group.name <= '2007' %}
 <h3>{{ year_group.name }}</h3>
 <ol>
 {% for publication in year_group.items %}
@@ -18,17 +17,13 @@ title: Publications before 2007
   {% endif %}
   {{ publication.authors }}. {{ publication.title }}. 
   {% if publication.type == "conference" %}
-    In <em>{{ publication.venue }}</em>, pages {{ publication.pages }}, {{ publication.year }}.
+    In <em>{{ publication.venue }}</em>, {{ publication.pages }}, {{ publication.year }}.
   {% else %}
-    <em>{{ publication.venue }}</em>, pages {{ publication.pages }}, {{ publication.year }}.
+    <em>{{ publication.venue }}</em>, {{ publication.pages }}, {{ publication.year }}.
   {% endif %}
   {% if publication.award and publication.award != "" %}
   <b>{{ publication.award }}.</b>
   {% endif %}
-  <a href="#" class="papercite_toggle">[BibTeX]</a>
-  <div class="papercite_bibtex">
-    <pre><code class="tex bibtex">{{ publication.content | raw}}</code></pre>
-  </div>
   {% if publication.doi_url and publication.doi_url != "" %}
   <a href="{{publication.doi_url}}">[DOI]</a>
   {% endif %}
@@ -38,5 +33,6 @@ title: Publications before 2007
 </li>
 {% endfor %}
 </ol>
-  {% endif %}
-{% endfor %}
+{% endfor %} 
+
+<p><b>See also: </b><a href="{{ '/publications/' | relative_url }}">Publications in English</a></p>

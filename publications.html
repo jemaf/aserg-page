@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+sidebar: '<a href="/publications-ptbr/">See also papers in Brazilian conferences</a>'
 ---
 
 {% assign publications_by_year = site.publications | group_by: "year" | sort: "name" | reverse %}
@@ -41,4 +42,5 @@ title: Publications
 {% endif %}
 {% endfor %} 
 
-<p><b>See also: </b><a href="{{ '/publications_old/' | relative_url }}">Publications before 2007</a></p>
+<p><b>See also: </b><a href="{{ '/publications-old/' | relative_url }}">Publications before 2007</a></p>
+<p><b>See also: </b><a href="{{ '/publications-ptbr/' | relative_url }}">Papers in Brazilian Conferences</a></p>

@@ -89,7 +89,9 @@
             <div id="secondary" class="widget-area" role="complementary">
                 <ul class="xoxo">
                     <li class="widget-container widget_text">
-                        <div class="textwidget"></div>
+                        <div class="textwidget">
+                          {{ page.sidebar | default: site.sidebar | markdownify }}
+                        </div>
                     </li>
                 </ul>
             </div><!-- #secondary .widget-area -->
