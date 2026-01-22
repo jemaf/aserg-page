@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Publications
-sidebar: |
-  <a href="{{ '/publications-ptbr/' | relative_url }}">See also papers in Brazilian conferences</a>
+secondary: true
 ---
 
 {% assign publications_by_year = site.publications | group_by: "year" | sort: "name" | reverse %}

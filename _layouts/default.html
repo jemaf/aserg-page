@@ -90,7 +90,11 @@
                 <ul class="xoxo">
                     <li class="widget-container widget_text">
                         <div class="textwidget">
-                          {{ page.sidebar | default: site.sidebar | markdownify }}
+                            {% if page.secondary %}
+                             {% if page.title == 'Publications' %}
+                                    {% include publications_secondary.html %}
+                                {% endif %}
+                            {% endif %}
                         </div>
                     </li>
                 </ul>
