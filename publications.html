@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Publications
-sidebar: '<a href="/publications-ptbr/">See also papers in Brazilian conferences</a>'
+sidebar: |
+  <a href="{{ '/publications-ptbr/' | relative_url }}">See also papers in Brazilian conferences</a>
 ---
 
 {% assign publications_by_year = site.publications | group_by: "year" | sort: "name" | reverse %}
@@ -13,7 +14,7 @@ sidebar: '<a href="/publications-ptbr/">See also papers in Brazilian conferences
 {% for publication in year_group.items %}
 <li>
   {% if publication.pdf_url and publication.pdf_url != "#" %}
-    <a href="{{ publication.pdf_url }}" target="_blank"><img src="/assets/pdfs/pdf.png" alt="PDF" style="height: 1em; vertical-align: middle;" /></a>
+    <a href="{{ publication.pdf_url }}" target="_blank"><img src="{{ '/assets/pdfs/pdf.png' | relative_url }}" alt="PDF" style="height: 1em; vertical-align: middle;" /></a>
   {% else %}
     [PDF]
   {% endif %}
