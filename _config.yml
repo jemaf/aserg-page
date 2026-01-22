@@ -20,6 +20,8 @@ collections:
   publications_ptbr:
     output: false
     directory: publications-ptbr
+  theses:
+    output: false
 
 # Defaults
 defaults:

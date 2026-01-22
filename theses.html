@@ -3,6 +3,34 @@ layout: default
 title: Theses
 ---
 
-<h1>Theses</h1>
-<p>Theses produced by members of the Applied Software Engineering Research Group.</p>
-<!-- Add theses list here --> 
+{% assign theses_by_year = site.theses | group_by: "year" | sort: "name" | reverse %}
+
+{% for year_group in theses_by_year %}
+<h3>{{ year_group.name }}</h3>
+<ol>
+{% for thesis in year_group.items %}
+<li>
+  {% if thesis.pdf_url and thesis.pdf_url != "#" %}
+    <a href="{{ thesis.pdf_url }}" target="_blank"><img src="/assets/pdfs/pdf.png" alt="PDF" style="height: 1em; vertical-align: middle;" /></a>
+  {% else %}
+    [PDF]
+  {% endif %}
+  {{ thesis.author }}. {{ thesis.title }}. 
+    <em>{{ thesis.type }}</em>, {{ thesis.year }}.
+  {% if thesis.award and thesis.award != "" %}
+  <b>{{ thesis.award }}.</b>
+  {% endif %}
+  <a href="#" class="papercite_toggle">[BibTeX]</a>
+  <div class="papercite_bibtex">
+    <pre><code class="tex bibtex">{{ thesis.content | raw}}</code></pre>
+  </div>
+  {% if thesis.doi_url and thesis.doi_url != "" %}
+  <a href="{{thesis.doi_url}}">[DOI]</a>
+  {% endif %}
+  {% if thesis.slide_url and thesis.slide_url != "" %}
+  <a href="{{thesis.slide_url}}">[Slides]</a>
+  {% endif %}
+</li>
+{% endfor %}
+</ol>
+{% endfor %} 
