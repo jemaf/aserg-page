@@ -3,7 +3,7 @@ description: Department of Computer Science, Federal University of Minas Gerais,
 author: ASERG
 email: aserg@dcc.ufmg.br
 url: "http://aserg.labsoft.dcc.ufmg.br"
-baseurl: ""
+baseurl: "/aserg-page"
 
 # Build settings
 markdown: kramdown
