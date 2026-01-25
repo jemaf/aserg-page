@@ -1,3 +1,5 @@
+# Adicionando nova publicação
+
 ## Local do arquivo
 
 O arquivo markdown da publicação deve ser salvo na pasta `_publications` (para publicações em inglês) ou `_publications_ptbr` (para publicações em português) do repositório. 
@@ -23,6 +25,10 @@ award: "[Prêmio, se houver]"
 
 [bibtex do artigo aqui]
 ```
+
+### Adição do pdf do artigo
+
+Se quiser, poderá adicionar o pdf do artigo na pasta `assets/papers` e referenciá-lo no campo `pdf_url` com o caminho relativo, por exemplo: `/assets/papers/nome-do-arquivo.pdf`.
 
 ## BibTeX
 

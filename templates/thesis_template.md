@@ -23,6 +23,10 @@ award: "[Prêmio, se houver]"
 [bibtex da tese/dissertação aqui]
 ```
 
+### Adição do pdf da tese/dissertação
+
+Se quiser, poderá adicionar o pdf da tese/dissertação na pasta `assets/theses` e referenciá-lo no campo `pdf_url` com o caminho relativo, por exemplo: `/assets/theses/nome-do-arquivo.pdf`.
+
 ## BibTeX
 
 O bibtex da tese/dissertação deve ir no body do arquivo markdown, dentro de um bloco de código `{% raw %}` para evitar que o Jekyll processe os caracteres especiais. Aqui está um exemplo de como deve ser formatado:
