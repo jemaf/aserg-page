@@ -1,13 +1,9 @@
----
-layout: thesis
-title: "[TÍTULO DA TESE/DISSERTAÇÃO]"
-author: "[Autor(a)]"
-year: [ANO]
-type: "[Master/PhD] Thesis"
-pdf_url: "[https://link-para-o-pdf]"
-award: "[Prêmio, se houver]"
----
 
+
+## Local do arquivo
+
+O arquivo markdown da tese/dissertação deve ser salvo na pasta `_theses` do repositório.
+O nome do arquivo deve seguir o formato `YYYY-titulo-da-tese.md`, onde `YYYY` é o ano da tese/dissertação e `titulo-da-tese` é uma versão em minúsculas e com hífens do título da tese/dissertação.
 
 ## Metadados da Tese/Dissertação
 
@@ -40,6 +36,29 @@ O bibtex da tese/dissertação deve ir no body do arquivo markdown, dentro de um
 }
 {% endraw %}
 ```
+
+## Exemplo Completo
+
+```markdown
+---
+layout: thesis
+title: "Análise de Algoritmos para Aprendizado de Máquina"
+author: "João da Silva"
+year: 2023
+type: "PhD Thesis"
+pdf_url: "https://example.com/joao_silva_thesis.pdf"
+award: "Melhor Tese de 2023"
+---
+
+{% raw %}
+@phdthesis{silva2023analise,
+  author = {João da Silva},
+  title = {Análise de Algoritmos para Aprendizado de Máquina},
+  school = {Universidade Exemplo},
+  year = {2023}
+}
+{% endraw %}
+``` 
 
 ## Checklist
 - [ ] O arquivo da tese/dissertação está nomeado como `YYYY-titulo-da-tese.md` e está na pasta correta (`_theses`).
