@@ -11,7 +11,7 @@ title: Theses
 {% for thesis in year_group.items %}
 <li>
   {% if thesis.pdf_url and thesis.pdf_url != "#" %}
-    <a href="{{ thesis.pdf_url }}" target="_blank"><img src="{{ '/assets/pdfs/pdf.png' | relative_url }}" alt="PDF" style="height: 1em; vertical-align: middle;" /></a>
+    <a href="{{ thesis.pdf_url | relative_url }}" target="_blank"><img src="{{ '/assets/pdfs/pdf.png' | relative_url }}" alt="PDF" style="height: 1em; vertical-align: middle;" /></a>
   {% else %}
     [PDF]
   {% endif %}
