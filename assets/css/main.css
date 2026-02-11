@@ -1420,38 +1420,34 @@ code {
   }
   
   .papercite_toggle:link, .papercite_toggle:visited {
-	  color: #0077cc;
+	  color: #555;
 	  text-decoration: none;
-	  font-weight: bold;
-	  background: #e6f2ff;
+	  background: #efefef;
 	  border-radius: 3px;
 	  padding: 0 4px;
 	  transition: background 0.2s, color 0.2s;
   }
   .papercite_toggle:hover, .papercite_toggle:active {
 	  color: #fff;
-	  background: #0077cc;
+	  background: #888;
   }
   
   
   .papercite_link, .papercite_link:link, .papercite_link:visited {
-    color: #222;
-    font-weight: bold;
-    text-decoration: none;
-    cursor: pointer;
+	  color: #555;
+	  text-decoration: none;
+	  background: #efefef;
+	  border-radius: 3px;
+	  padding: 0 4px;
+	  transition: background 0.2s, color 0.2s;
   }
   .papercite_info {
     color: #555;
   }
   
-	.papercite_highlight {
-		font-weight: bold;
-		background: #ffe066;
-		color: #b36b00;
-		border-radius: 3px;
-		padding: 0 3px;
-		/* Updated highlight color for better visibility */
-	}
+  .papercite_highlight {
+    font-weight: bold;
+  }
   
   span.papercite_checked_files {
       padding: 5px;

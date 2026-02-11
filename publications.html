@@ -31,10 +31,10 @@ secondary: true
     <pre><code class="tex bibtex">{{ publication.content | raw}}</code></pre>
   </div>
   {% if publication.doi_url and publication.doi_url != "" %}
-  <a href="{{publication.doi_url}}">[DOI]</a>
+  <a class="papercite_link" href="{{publication.doi_url}}">[DOI]</a>
   {% endif %}
   {% if publication.slide_url and publication.slide_url != "" %}
-  <a href="{{publication.slide_url}}">[Slides]</a>
+  <a class="papercite_link" href="{{publication.slide_url}}">[Slides]</a>
   {% endif %}
 </li>
 {% endfor %}
