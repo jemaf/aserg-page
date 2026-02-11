@@ -1420,8 +1420,17 @@ code {
   }
   
   .papercite_toggle:link, .papercite_toggle:visited {
-      color: gray;
-      text-decoration: none;
+	  color: #0077cc;
+	  text-decoration: none;
+	  font-weight: bold;
+	  background: #e6f2ff;
+	  border-radius: 3px;
+	  padding: 0 4px;
+	  transition: background 0.2s, color 0.2s;
+  }
+  .papercite_toggle:hover, .papercite_toggle:active {
+	  color: #fff;
+	  background: #0077cc;
   }
   
   
@@ -1435,9 +1444,14 @@ code {
     color: #555;
   }
   
-  .papercite_highlight {
-    font-weight: bold;
-  }
+	.papercite_highlight {
+		font-weight: bold;
+		background: #ffe066;
+		color: #b36b00;
+		border-radius: 3px;
+		padding: 0 3px;
+		/* Updated highlight color for better visibility */
+	}
   
   span.papercite_checked_files {
       padding: 5px;
