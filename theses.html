@@ -20,10 +20,7 @@ title: Theses
   {% if thesis.award and thesis.award != "" %}
   <b>{{ thesis.award }}.</b>
   {% endif %}
-  <a href="#" class="papercite_toggle">[BibTeX]</a>
-  <div class="papercite_bibtex">
-    <pre><code class="tex bibtex">{{ thesis.content | raw}}</code></pre>
-  </div>
+  
   {% if thesis.doi_url and thesis.doi_url != "" %}
   <a href="{{thesis.doi_url}}">[DOI]</a>
   {% endif %}

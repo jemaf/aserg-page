@@ -1420,16 +1420,26 @@ code {
   }
   
   .papercite_toggle:link, .papercite_toggle:visited {
-      color: gray;
-      text-decoration: none;
+	  color: #555;
+	  text-decoration: none;
+	  background: #efefef;
+	  border-radius: 3px;
+	  padding: 0 4px;
+	  transition: background 0.2s, color 0.2s;
+  }
+  .papercite_toggle:hover, .papercite_toggle:active {
+	  color: #fff;
+	  background: #888;
   }
   
   
   .papercite_link, .papercite_link:link, .papercite_link:visited {
-    color: #222;
-    font-weight: bold;
-    text-decoration: none;
-    cursor: pointer;
+	  color: #555;
+	  text-decoration: none;
+	  background: #efefef;
+	  border-radius: 3px;
+	  padding: 0 4px;
+	  transition: background 0.2s, color 0.2s;
   }
   .papercite_info {
     color: #555;
