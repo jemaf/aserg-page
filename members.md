@@ -12,13 +12,3 @@ title: Members
 3. [João Eduardo Montandon](https://jemaf.github.io/)  
    <small>([DBLP](https://dblp.org/pid/128/2576.html), [Lattes](http://lattes.cnpq.br/4459015753704495), [CSIndexbr](https://csindexbr.org/authors.html?p=Joao-Eduardo-Montandon))</small>
 
-**Ph.D. Students**
-
-1. Ricardo Job
-
-**M.Sc. Students**
-
-1. Maurício Monteiro
-2. Victor Gazzinelli
-3. Rafael Torres
-4. Paulo Tupiná
