@@ -16,7 +16,7 @@ award: ""
   author = {Lucas Vegi and Marco Tulio Valente},
   title = {Mind the gap: Linking refactorings and code smells in Elixir},
   journal = {Journal of Software: Evolution and Process},
-  pages = {1--47},  
+  pages = {1--47},
   year = {2026}
 }
 {% endraw %}
