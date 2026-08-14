@@ -1,6 +1,6 @@
 ---
 layout: publication
-title: "Configuration Smells in {AGENTS.md} Files: Common Mistakes in Configuring Coding Agents"
+title: "Configuration Smells in AGENTS.md Files: Common Mistakes in Configuring Coding Agents"
 authors: "Helio Victor F. Santos, Vitor Costa, Joao Eduardo Montandon, Luciana Lourdes Silva, Marco Tulio Valente"
 venue: "26th IEEE International Conference on Source Code Analysis and Manipulation (SCAM)"
 year: 2026
