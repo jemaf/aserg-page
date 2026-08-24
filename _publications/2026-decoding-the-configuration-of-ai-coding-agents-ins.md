@@ -6,7 +6,7 @@ venue: "1st International Workshop on Agentic Engineering"
 year: 2026
 pages: "1--5"
 pdf_url: "https://arxiv.org/pdf/2511.09268"
-doi_url: ""
+doi_url: "https://doi.org/10.1145/3786167.3788412"
 slide_url: ""
 award: ""
 ---
