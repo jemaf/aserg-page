@@ -13,7 +13,7 @@ award: ""
 
 {% raw %}
 @article{esem-pbt-2027,
-  author = {Lucas Vegi and Marco Tulio Valente},
+  author = {Isadora de Oliveira and Arthur Lisboa Corgozinho and Henrique Rocha and Marco Tulio Valente},
   title = {Property-based testing in {Python}: empirical insights},
   journal = {Empirical Software Engineering },
   pages = {30--65},
