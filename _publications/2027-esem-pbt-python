@@ -1,0 +1,22 @@
+---
+layout: publication
+title: "Property-based testing in Python: empirical insights"
+authors: "Isadora de Oliveira, Arthur Lisboa Corgozinho, Henrique Rocha, Marco Tulio Valente"
+venue: "Empirical Software Engineering"
+year: 2027
+pages: "30--65"
+pdf_url: "https://homepages.dcc.ufmg.br/~mtov/pub/2027-esem-pbt-python.pdf"
+doi_url: ""
+slide_url: ""
+award: ""
+---
+
+{% raw %}
+@article{esem-pbt-2027,
+  author = {Lucas Vegi and Marco Tulio Valente},
+  title = {Property-based testing in {Python}: empirical insights},
+  journal = {Empirical Software Engineering },
+  pages = {30--65},
+  year = {2027}
+}
+{% endraw %}
