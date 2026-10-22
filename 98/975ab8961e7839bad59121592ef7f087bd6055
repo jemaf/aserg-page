@@ -1,0 +1,27 @@
+README.md
+  h_fc24a520c03326 23
+  s_cf7cd054e4ee8d::t_7cf8508831565b 9-16,19-20
+  s_cf7cd054e4ee8d::t_c8118a0566054e 17-18,21-22
+  s_cf7cd054e4ee8d::t_2a717610322868 7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "98975ab8961e7839bad59121592ef7f087bd6055",
+  "prompts": {},
+  "humans": {
+    "h_fc24a520c03326": {
+      "author": "João Eduardo Montandon <edu.montandon@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_cf7cd054e4ee8d": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "5a2190ca-5fe9-4f6b-929b-dfeebe62b645",
+        "model": "unknown"
+      },
+      "human_author": "João Eduardo Montandon <edu.montandon@gmail.com>"
+    }
+  }
+}
