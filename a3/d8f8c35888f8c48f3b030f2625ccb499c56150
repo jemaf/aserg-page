@@ -1,0 +1,46 @@
+_publications_ptbr/2026-vem-test-driven-prompting.md
+  s_cf7cd054e4ee8d::t_5d96741cef0b34 13-21
+  h_fc24a520c03326 9,11-12
+_publications_ptbr/2024-vem-smells-testes-cypress.md
+  h_fc24a520c03326 8-9
+  s_b5d15421df4293::t_11693285f1d6f0 17
+  s_cf7cd054e4ee8d::t_8d6be0d5fa85a3 1-3,6,10-13,15-16,18-20
+  s_cf7cd054e4ee8d::t_8183775b78661c 4-5
+  s_cf7cd054e4ee8d::t_39593a99c1bef1 14
+  h_fc24a520c03326 7
+_publications/2026-ast-testing-framework-migration-llms.md
+  h_fc24a520c03326 5,7-9,21
+  s_cf7cd054e4ee8d::t_aced4bd5f0bf29 1-4,6,10-20,22-23
+_publications_ptbr/2025-vem-dabcheck.md
+  h_fc24a520c03326 8-9
+  h_fc24a520c03326 1-7,10-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a3d8f8c35888f8c48f3b030f2625ccb499c56150",
+  "prompts": {},
+  "humans": {
+    "h_fc24a520c03326": {
+      "author": "João Eduardo Montandon <edu.montandon@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b5d15421df4293": {
+      "agent_id": {
+        "tool": "github-copilot-tab",
+        "id": "ai_tab-1792706113886",
+        "model": "default"
+      },
+      "human_author": "João Eduardo Montandon <edu.montandon@gmail.com>"
+    },
+    "s_cf7cd054e4ee8d": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "5a2190ca-5fe9-4f6b-929b-dfeebe62b645",
+        "model": "unknown"
+      },
+      "human_author": "João Eduardo Montandon <edu.montandon@gmail.com>"
+    }
+  }
+}
