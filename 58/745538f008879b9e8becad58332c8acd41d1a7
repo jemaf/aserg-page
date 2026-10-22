@@ -1,0 +1,16 @@
+_publications_ptbr/2026-vem-test-driven-prompting.md
+  h_fc24a520c03326 1-10
+_publications/2026-whats-inside-github-repository.md
+  h_fc24a520c03326 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "58745538f008879b9e8becad58332c8acd41d1a7",
+  "prompts": {},
+  "humans": {
+    "h_fc24a520c03326": {
+      "author": "João Eduardo Montandon <edu.montandon@gmail.com>"
+    }
+  }
+}
