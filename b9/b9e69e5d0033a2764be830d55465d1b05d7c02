@@ -1,0 +1,14 @@
+_theses/2026-understanding-the-configuration-of-ai-coding-agents.md
+  h_fc24a520c03326 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b9b9e69e5d0033a2764be830d55465d1b05d7c02",
+  "prompts": {},
+  "humans": {
+    "h_fc24a520c03326": {
+      "author": "João Eduardo Montandon <edu.montandon@gmail.com>"
+    }
+  }
+}
