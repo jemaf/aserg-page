@@ -11,7 +11,7 @@ title: Papers in Brazilian Conferences
 {% for publication in year_group.items %}
 <li>
   {% if publication.pdf_url and publication.pdf_url != "#" %}
-    <a href="{{ publication.pdf_url }}" target="_blank"><img src="{{ '/assets/pdfs/pdf.png' | relative_url }}" alt="PDF" style="height: 1em; vertical-align: middle;" /></a>
+    <a href="{{ publication.pdf_url | relative_url }}" target="_blank"><img src="{{ '/assets/pdfs/pdf.png' | relative_url }}" alt="PDF" style="height: 1em; vertical-align: middle;" /></a>
   {% else %}
     [PDF]
   {% endif %}
